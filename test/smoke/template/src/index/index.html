@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- html-webpack-plugin 使用 ejs 模板引擎, 所以可以直接用 ${} -->
+  ${ require('raw-loader!./meta.html') }
+  <title>Document</title>
+  <script>${ require('raw-loader!babel-loader!../../node_modules/lib-flexible/flexible.js') }</script>
+</head>
+<body>
+  <div id="root"></div>
+  <!-- <script src="https://now8.gtimg.com/now/lib/16.8.6/react.min.js"></script>
+  <script src="https://now8.gtimg.com/now/lib/16.8.6/react-dom.min.js"></script> -->
+</body>
+</html>

@@ -1,0 +1,2483 @@
+{
+	"code": 0,
+	"data": {
+		"infos": [{
+			"id": 100081501,
+			"spu": 815,
+			"ctime": 1623310398,
+			"utime": 1625496998,
+			"begin_time": 1623772800,
+			"end_time": 1939305600,
+			"price": {
+				"market": 12900,
+				"sale": 9900,
+				"sale_type": 3
+			},
+			"is_onborad": true,
+			"is_sale": true,
+			"is_groupbuy": true,
+			"is_promo": false,
+			"is_shareget": false,
+			"is_sharesale": true,
+			"type": "c1",
+			"is_column": true,
+			"is_core": true,
+			"is_video": false,
+			"is_audio": true,
+			"is_dailylesson": false,
+			"is_university": false,
+			"is_opencourse": false,
+			"is_qconp": false,
+			"nav_id": 1,
+			"title": "如何成为学习高手",
+			"subtitle": "北大学霸带你10倍提升学习效率",
+			"intro": "一个人最重要的能力，就是学习能力。因为，我们的一切技能、思维、解决问题的方法，全都是从学习得来。一个人的学习能力，相当于Ta的系统配置。你的学习能力越强，也就是配置越高，无论是学习，还是工作，你越能快速高效地取得好的成绩和结果。这个专栏可以教会你：如何掌握考试思维，成为一个特别会考试的人；如何用连点成线法，在15天内背下10多门专业课；如何记住读过的每一本书；如何在5分钟内摆脱拖延症；一个人在家如何做到高度自律；如何利用科学方法，每天高效学习12小时；如何快速学会新技能；如何通过练习，让自己变得更聪明；……这套学习方法，接受过上百万人检验。你在学习中遇到的所有问题，都在这个专栏的射程范围之内。它会在相当大的程度上，改变你与学习相关的一切思维和习惯！",
+			"intro_html": "\u003cp\u003e一个人最重要的能力，就是学习能力。因为，我们的一切技能、思维、解决问题的方法，全都是从学习得来。\u003c/p\u003e\n\u003cp\u003e一个人的学习能力，相当于 Ta 的系统配置。你的学习能力越强，也就是配置越高，无论是学习，还是工作，你越能快速高效地取得好的成绩和结果。\u003c/p\u003e\n\u003cp\u003e这个专栏可以教会你：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e如何掌握考试思维，成为一个特别会考试的人；\u003c/li\u003e\n\u003cli\u003e如何用连点成线法，在15天内背下10多门专业课；\u003c/li\u003e\n\u003cli\u003e如何记住读过的每一本书；\u003c/li\u003e\n\u003cli\u003e如何在5分钟内摆脱拖延症；\u003c/li\u003e\n\u003cli\u003e一个人在家如何做到高度自律；\u003c/li\u003e\n\u003cli\u003e如何利用科学方法，每天高效学习12小时；\u003c/li\u003e\n\u003cli\u003e如何快速学会新技能；\u003c/li\u003e\n\u003cli\u003e如何通过练习，让自己变得更聪明；\u003c/li\u003e\n\u003cli\u003e……\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e这套学习方法，接受过上百万人检验。你在学习中遇到的所有问题，都在这个专栏的射程范围之内。它会在相当大的程度上，改变你与学习相关的一切思维和习惯！\u003c/p\u003e\n\u003cp\u003e\u003cimg src=\"https://static001.geekbang.org/resource/image/3c/cd/3c0625d51e33c53cef9834d9b4cb62cd.jpg\" alt=\"\" /\u003e\u003c/p\u003e\n",
+			"ucode": "DC594DF2BAC858",
+			"is_finish": true,
+			"author": {
+				"name": "高冷冷",
+				"intro": "北大硕士、知乎64万关注大V",
+				"info": "",
+				"avatar": "https://static001.geekbang.org/resource/image/7b/83/7b7c61ecc082b358c97f5773399e6283.jpg"
+			},
+			"cover": {
+				"square": "https://static001.geekbang.org/resource/image/7b/83/7b7c61ecc082b358c97f5773399e6283.jpg",
+				"rectangle": "https://static001.geekbang.org/resource/image/af/4e/aff10130ba0afe69b1140ef42a93d94e.jpg",
+				"horizontal": "https://static001.geekbang.org/resource/image/c7/12/c7022ca791c2062de5f450ab7998ca12.jpg",
+				"lecture_horizontal": "https://static001.geekbang.org/resource/image/5a/33/5a9934f5e810ce37f1fda723a1812233.jpg",
+				"learn_horizontal": "https://static001.geekbang.org/resource/image/cd/7b/cd803b485ed0a12ce1f1d1219f65777b.png"
+			},
+			"article": {
+				"id": 0,
+				"count": 24,
+				"count_req": 24,
+				"count_pub": 24,
+				"total_length": 15005,
+				"first_article_id": 0,
+				"first_article_title": ""
+			},
+			"seo": {
+				"keywords": ["学习", "读书", "个人成长", "时间管理", "精力管理", "记忆力", "学霸", "自律", "计划", "拖延症"]
+			},
+			"share": {
+				"title": "高冷冷 · 如何成为学习高手",
+				"content": "北大学霸带你10倍提升学习效率",
+				"cover": "https://static001.geekbang.org/resource/image/7b/83/7b7c61ecc082b358c97f5773399e6283.jpg",
+				"poster": "https://static001.geekbang.org/resource/image/4d/d9/4dec7b465c38b7dfa5904a4cb01e86d9.jpg"
+			},
+			"labels": [4, 71],
+			"unit": "24讲",
+			"column": {
+				"unit": "24讲",
+				"bgcolor": "F6F7FB",
+				"update_frequency": "全集",
+				"is_preorder": false,
+				"is_finish": true,
+				"is_include_preview": false,
+				"show_chapter": true,
+				"is_sale_product": true,
+				"study_service": [1, 2, 3, 9, 11],
+				"path": {
+					"desc": "你将获得：高手学习的4个底层思维；切实可行的7个超强学习技巧；让学习速度“开挂”的高效记忆法；自律到骨子里的9大精力管理法则。",
+					"desc_html": "\u003cp\u003e\u003cstrong\u003e你将获得：\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e高手学习的 4 个底层思维；\u003c/li\u003e\n\u003cli\u003e切实可行的 7 个超强学习技巧；\u003c/li\u003e\n\u003cli\u003e让学习速度“开挂”的高效记忆法；\u003c/li\u003e\n\u003cli\u003e自律到骨子里的 9 大精力管理法则。\u003c/li\u003e\n\u003c/ul\u003e\n"
+				},
+				"is_camp": false,
+				"catalog_pic_url": "https://static001.geekbang.org/resource/image/76/21/76414055092bfb55d7eeb8003a132e21.jpg"
+			},
+			"dl": {
+				"article": {
+					"id": 0,
+					"video_duration": "",
+					"video_hot": 0,
+					"could_preview": false
+				},
+				"topic_ids": []
+			},
+			"university": {
+				"total_hour": 0,
+				"term": 0,
+				"redirect_type": "",
+				"redirect_param": "",
+				"wx_qrcode": "",
+				"wx_rule": "",
+				"server_start_time": 0,
+				"lecturer_h_cover": ""
+			},
+			"opencourse": {
+				"video_bg": "",
+				"ad": {
+					"cover": "",
+					"cover_web": "",
+					"redirect_type": "",
+					"redirect_param": ""
+				},
+				"article_fav": {
+					"aid": 0,
+					"had_done": false,
+					"count": 0
+				},
+				"author_h_cover": ""
+			},
+			"qconp": {
+				"topic_id": 0,
+				"cover_appoint": "",
+				"article": {
+					"id": 0,
+					"cover": "",
+					"video_duration": "",
+					"video_hot": 0
+				}
+			},
+			"extra": {
+				"sub": {
+					"count": 2340,
+					"had_done": false,
+					"could_order": true,
+					"access_mask": 0
+				},
+				"fav": {
+					"count": 0,
+					"had_done": false
+				},
+				"rate": {
+					"article_count": 0,
+					"article_count_req": 0,
+					"is_finished": false,
+					"rate_percent": 0,
+					"video_seconds": 0,
+					"last_article_id": 0,
+					"last_chapter_id": 0,
+					"has_learn": false
+				},
+				"cert": {
+					"id": "",
+					"type": 0
+				},
+				"nps": {
+					"min": 12,
+					"status": 0,
+					"url": "https://jinshuju.net/f/GRTDz2"
+				},
+				"any_read": {
+					"total": 2,
+					"count": 0
+				},
+				"university": {
+					"status": 0,
+					"view_status": 0,
+					"charge_status": 0,
+					"share_renewal_status": 0,
+					"unlocked_status": 0,
+					"unlocked_chapter_ids": [],
+					"unlocked_chapter_id": 0,
+					"unlocked_chapter_title": "",
+					"unlocked_article_count": 0,
+					"unlocked_next_time": 0,
+					"expire_time": 0,
+					"is_expired": false,
+					"is_graduated": false,
+					"had_sub": false,
+					"timeline": [],
+					"has_wx_friend": false,
+					"sub_term_title": ""
+				},
+				"vip": {
+					"show": false,
+					"end_time": -1
+				},
+				"appoint": {
+					"could_do": false,
+					"had_done": false,
+					"count": 0
+				},
+				"group_buy": {
+					"success_ucount": 2,
+					"join_code": "",
+					"could_groupbuy": false,
+					"had_join": false,
+					"price": 9900,
+					"list": []
+				},
+				"sharesale": {
+					"original_pic_color": "395559",
+					"original_pic_url": "https://static001.geekbang.org/render/screen/7f/84/7ff8b24dd3b8024bd04c2aec682b6484.jpeg",
+					"promo_pic_color": "395559",
+					"promo_pic_url": "https://static001.geekbang.org/render/screen/7f/84/7ff8b24dd3b8024bd04c2aec682b6484.jpeg",
+					"share_sale_price": 2000,
+					"share_sale_guest_price": 0
+				},
+				"promo": {
+					"ent_time": 0
+				},
+				"channel": {
+					"is": false,
+					"back_amount": 0
+				},
+				"first_promo": {
+					"price": 8900,
+					"could_join": false
+				},
+				"coupon_promo": {
+					"could_join": false,
+					"price": 0
+				},
+				"helper": [],
+				"tab": {
+					"comment": false
+				},
+				"modules": [{
+					"name": "gain",
+					"title": "",
+					"content": "高手学习的4个底层思维切实可行的7个超强学习技巧让学习速度“开挂”的高效记忆法自律到骨子里的9大精力管理法则",
+					"type": ""
+				}],
+				"cid": 0,
+				"first_aids": [],
+				"study_plan": {
+					"id": 0,
+					"day_nums": 0,
+					"article_nums": 0,
+					"learned_week_nums": 0,
+					"status": 0
+				},
+				"cate_id": 303,
+				"cate_name": "",
+				"group_tag": {
+					"is_recommend": false,
+					"is_recently_learn": false
+				}
+			}
+		}, {
+			"id": 100079601,
+			"spu": 796,
+			"ctime": 1621740422,
+			"utime": 1625729831,
+			"begin_time": 1621353600,
+			"end_time": 2035209600,
+			"price": {
+				"market": 19900,
+				"sale": 12900,
+				"sale_type": 2
+			},
+			"is_onborad": true,
+			"is_sale": true,
+			"is_groupbuy": false,
+			"is_promo": true,
+			"is_shareget": false,
+			"is_sharesale": true,
+			"type": "c1",
+			"is_column": true,
+			"is_core": true,
+			"is_video": false,
+			"is_audio": true,
+			"is_dailylesson": false,
+			"is_university": false,
+			"is_opencourse": false,
+			"is_qconp": false,
+			"nav_id": 1,
+			"title": "Go 语言项目开发实战",
+			"subtitle": "带你从0到1实现一个企业级 Go 项目",
+			"intro": "当前，很多公司的技术架构都在往云原生架构演进，而绝大部分的云原生核心项目是用Go来构建的，例如：Kubernetes、Docker等。同时，国内腾讯、阿里等一线大厂也都在积极转Go。伴随着Go的火热，各个公司对Go研发工程师的需求也越来越旺盛。因此，很多开发者都在学习或使用Go来开发项目。但是，很多初学者在学习Go项目开发时，经常会面临一系列问题：Go项目开发涉及的技能点太多，不知道如何去构建其中的技能点看了很多资料，还是没有掌握最佳实践，总也写不出优雅的代码学了很多Go开发相关的知识点、构建方法，但都不系统、不全面、不深入……为此，我们邀请孔令飞开设了一门Go语言项目实战课。他会围绕一个可部署、可运行的企业应用源码，遵循Go项目开发流程，为你系统、详细地讲解Go应用开发需要用到的技能点，让你掌握它们的具体构建方法、业界的最佳实践和一线开发经验。同时，专栏最终交付给你的这套代码能够满足绝大部分的企业应用开发场景，你可以基于它做二次开发，快速构建起你自己的企业应用。课程模块设计整个专栏共划分为6个核心模块。实战准备。从准备一个实验环境开始，手把手帮你把实战项目部署好。在加深你对实战项目的理解的同时，也会教你一些部署的技能点，包括准备开发环境、制作CA证书、安装应用等。实战第1站：规范设计。详细介绍开发中常见的10大规范，例如目录规范、日志规范、错误码规范、Commit规范等。通过本模块，你能够学会如何设计常见的规范，进而为高效开发一个高质量、易阅读、易维护的Go应用打好基础。实战第2站：基础功能设计或开发。教你设计或开发一些Go应用开发中的基础功能，例如日志包、错误包、错误码等。实战第3站：服务开发。借助一个企业级Go项目代码的解析过程，详细讲解Go开发阶段的各个技能点，例如怎么设计和开发API服务、GoSDK、客户端工具等。实战第4站：服务测试。围绕实战项目讲解如何进行单元测试、功能测试、性能分析和性能调优，最终让你交付一个性能和稳定性都经过充分测试的、生产级可用的服务。实战第5站：服务部署。通过实际部署一个实战项目，教你如何部署一个高可用、安全、具备容灾能力，又可以轻松水平扩展的企业应用。同时，围绕2种部署方式：传统部署方式和容器化部署方式，对比它们在部署方法、复杂度和能力上的异同。",
+			"intro_html": "\u003cp\u003e当前，很多公司的技术架构都在往云原生架构演进，而绝大部分的云原生核心项目是用Go来构建的，例如：Kubernetes、Docker等。同时，国内腾讯、阿里等一线大厂也都在积极转Go。伴随着 Go 的火热，各个公司对 Go 研发工程师的需求也越来越旺盛。\u003c/p\u003e\n\u003cp\u003e因此，很多开发者都在学习或使用 Go 来开发项目。但是，很多初学者在学习 Go 项目开发时，经常会面临一系列问题：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eGo 项目开发涉及的技能点太多，不知道如何去构建其中的技能点\u003c/li\u003e\n\u003cli\u003e看了很多资料，还是没有掌握最佳实践，总也写不出优雅的代码\u003c/li\u003e\n\u003cli\u003e学了很多 Go 开发相关的知识点、构建方法，但都不系统、不全面、不深入\u003cbr /\u003e\n……\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e为此，我们邀请孔令飞开设了一门 Go 语言项目实战课。他会围绕一个可部署、可运行的企业应用源码，遵循 Go 项目开发流程，为你系统、详细地讲解 Go 应用开发需要用到的技能点，让你掌握它们的具体构建方法、业界的最佳实践和一线开发经验。\u003c/p\u003e\n\u003cp\u003e同时，专栏最终交付给你的这套代码能够满足绝大部分的企业应用开发场景，你可以基于它做二次开发，快速构建起你自己的企业应用。\u003c/p\u003e\n\u003cp\u003e\u003cimg src=\"https://static001.geekbang.org/resource/image/c4/8c/c4a4bdfc103f193d292b54e44510f28c.jpg\" alt=\"\" /\u003e\u003c/p\u003e\n\u003ch2\u003e课程模块设计\u003c/h2\u003e\n\u003cp\u003e整个专栏共划分为 6 个核心模块。\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e实战准备\u003c/strong\u003e。从准备一个实验环境开始，手把手帮你把实战项目部署好。在加深你对实战项目的理解的同时，也会教你一些部署的技能点，包括准备开发环境、制作 CA 证书、安装应用等。\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e实战第 1 站：规范设计\u003c/strong\u003e。详细介绍开发中常见的 10 大规范，例如目录规范、日志规范、错误码规范、Commit 规范等。通过本模块，你能够学会如何设计常见的规范，进而为高效开发一个高质量、易阅读、易维护的 Go 应用打好基础。\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e实战第 2 站：基础功能设计或开发\u003c/strong\u003e。教你设计或开发一些 Go 应用开发中的基础功能，例如日志包、错误包、错误码等。\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e实战第 3 站：服务开发\u003c/strong\u003e。借助一个企业级 Go 项目代码的解析过程，详细讲解 Go 开发阶段的各个技能点，例如怎么设计和开发 API 服务、Go SDK、客户端工具等。\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e实战第 4 站：服务测试\u003c/strong\u003e。围绕实战项目讲解如何进行单元测试、功能测试、性能分析和性能调优，最终让你交付一个性能和稳定性都经过充分测试的、生产级可用的服务。\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e实战第 5 站：服务部署\u003c/strong\u003e。通过实际部署一个实战项目，教你如何部署一个高可用、安全、具备容灾能力，又可以轻松水平扩展的企业应用。同时，围绕 2 种部署方式：传统部署方式和容器化部署方式，对比它们在部署方法、复杂度和能力上的异同。\u003c/p\u003e\n",
+			"ucode": "8363EA4BD0AAF0",
+			"is_finish": false,
+			"author": {
+				"name": "孔令飞",
+				"intro": "腾讯云资深工程师，前Red Hat、联想云工程师",
+				"info": "",
+				"avatar": "https://static001.geekbang.org/resource/image/ac/e6/ac3abf576a04e4e46593e5c732ffcce6.jpg"
+			},
+			"cover": {
+				"square": "https://static001.geekbang.org/resource/image/ac/e6/ac3abf576a04e4e46593e5c732ffcce6.jpg",
+				"rectangle": "https://static001.geekbang.org/resource/image/d4/9f/d498d5a106e04cee1400414972fca39f.jpg",
+				"horizontal": "https://static001.geekbang.org/resource/image/6d/c3/6db94ff3c04ae35d05665f7c149d36c3.jpg",
+				"lecture_horizontal": "https://static001.geekbang.org/resource/image/b4/c5/b4197466075bc30dd7585aa38f0919c5.jpg",
+				"learn_horizontal": "https://static001.geekbang.org/resource/image/1e/76/1eddef61eyyb1b69ec276ea918b8fd76.png"
+			},
+			"article": {
+				"id": 0,
+				"count": 54,
+				"count_req": 54,
+				"count_pub": 22,
+				"total_length": 18966,
+				"first_article_id": 0,
+				"first_article_title": ""
+			},
+			"seo": {
+				"keywords": ["Go", "实战", "项目开发", "孔令飞", "Commit 规范", "最佳实践", "企业应用代码"]
+			},
+			"share": {
+				"title": "孔令飞 · Go 语言项目开发实战",
+				"content": "带你从0到1实现一个企业级 Go 项目",
+				"cover": "https://static001.geekbang.org/resource/image/ac/e6/ac3abf576a04e4e46593e5c732ffcce6.jpg",
+				"poster": "https://static001.geekbang.org/resource/image/11/c5/11be20aaa9799cec61a0f3f16b2b89c5.jpg"
+			},
+			"labels": [3, 11],
+			"unit": "54讲",
+			"column": {
+				"unit": "54讲",
+				"bgcolor": "F6F7FB",
+				"update_frequency": "每周二 / 四 / 六更新",
+				"is_preorder": false,
+				"is_finish": false,
+				"is_include_preview": true,
+				"show_chapter": true,
+				"is_sale_product": true,
+				"study_service": [1, 2, 3, 8, 9, 11],
+				"path": {
+					"desc": "你将获得：一线企业应用的最佳实践方式；一套可执行、可复用的企业应用代码；详解Go项目开发5大核心流程；一次掌握Go项目开发常用技能点。",
+					"desc_html": "\u003cp\u003e\u003cstrong\u003e你将获得：\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e一线企业应用的最佳实践方式；\u003c/li\u003e\n\u003cli\u003e一套可执行、可复用的企业应用代码；\u003c/li\u003e\n\u003cli\u003e详解Go项目开发5大核心流程；\u003c/li\u003e\n\u003cli\u003e一次掌握Go项目开发常用技能点。\u003c/li\u003e\n\u003c/ul\u003e\n"
+				},
+				"is_camp": false,
+				"catalog_pic_url": "https://static001.geekbang.org/resource/image/4d/55/4d0d87830fbb806c4732611c7840d455.jpeg"
+			},
+			"dl": {
+				"article": {
+					"id": 0,
+					"video_duration": "",
+					"video_hot": 0,
+					"could_preview": false
+				},
+				"topic_ids": []
+			},
+			"university": {
+				"total_hour": 0,
+				"term": 0,
+				"redirect_type": "",
+				"redirect_param": "",
+				"wx_qrcode": "",
+				"wx_rule": "",
+				"server_start_time": 0,
+				"lecturer_h_cover": ""
+			},
+			"opencourse": {
+				"video_bg": "",
+				"ad": {
+					"cover": "",
+					"cover_web": "",
+					"redirect_type": "",
+					"redirect_param": ""
+				},
+				"article_fav": {
+					"aid": 0,
+					"had_done": false,
+					"count": 0
+				},
+				"author_h_cover": ""
+			},
+			"qconp": {
+				"topic_id": 0,
+				"cover_appoint": "",
+				"article": {
+					"id": 0,
+					"cover": "",
+					"video_duration": "",
+					"video_hot": 0
+				}
+			},
+			"extra": {
+				"sub": {
+					"count": 2993,
+					"had_done": false,
+					"could_order": true,
+					"access_mask": 0
+				},
+				"fav": {
+					"count": 0,
+					"had_done": false
+				},
+				"rate": {
+					"article_count": 0,
+					"article_count_req": 0,
+					"is_finished": false,
+					"rate_percent": 0,
+					"video_seconds": 0,
+					"last_article_id": 0,
+					"last_chapter_id": 0,
+					"has_learn": false
+				},
+				"cert": {
+					"id": "",
+					"type": 0
+				},
+				"nps": {
+					"min": 27,
+					"status": 0,
+					"url": "https://jinshuju.net/f/o1nVPp"
+				},
+				"any_read": {
+					"total": 4,
+					"count": 0
+				},
+				"university": {
+					"status": 0,
+					"view_status": 0,
+					"charge_status": 0,
+					"share_renewal_status": 0,
+					"unlocked_status": 0,
+					"unlocked_chapter_ids": [],
+					"unlocked_chapter_id": 0,
+					"unlocked_chapter_title": "",
+					"unlocked_article_count": 0,
+					"unlocked_next_time": 0,
+					"expire_time": 0,
+					"is_expired": false,
+					"is_graduated": false,
+					"had_sub": false,
+					"timeline": [],
+					"has_wx_friend": false,
+					"sub_term_title": ""
+				},
+				"vip": {
+					"show": false,
+					"end_time": -1
+				},
+				"appoint": {
+					"could_do": false,
+					"had_done": false,
+					"count": 0
+				},
+				"group_buy": {
+					"success_ucount": 0,
+					"join_code": "",
+					"could_groupbuy": false,
+					"had_join": false,
+					"price": 0,
+					"list": []
+				},
+				"sharesale": {
+					"original_pic_color": "412A45",
+					"original_pic_url": "https://static001.geekbang.org/render/screen/06/92/06cc8bb164b78d4c4387fb3d6a305892.jpeg",
+					"promo_pic_color": "412A45",
+					"promo_pic_url": "https://static001.geekbang.org/render/screen/c1/b7/c16de4b864bf0ae2d4b09738b18a5fb7.jpeg",
+					"share_sale_price": 2400,
+					"share_sale_guest_price": 0
+				},
+				"promo": {
+					"ent_time": 1627747199
+				},
+				"channel": {
+					"is": false,
+					"back_amount": 0
+				},
+				"first_promo": {
+					"price": 6990,
+					"could_join": false
+				},
+				"coupon_promo": {
+					"could_join": false,
+					"price": 0
+				},
+				"helper": [],
+				"tab": {
+					"comment": false
+				},
+				"modules": [{
+					"name": "gain",
+					"title": "",
+					"content": "一线企业应用的最佳实践方式一套可执行、可复用的企业应用代码详解Go项目开发5大核心流程一次掌握Go项目开发常用技能点",
+					"type": ""
+				}],
+				"cid": 0,
+				"first_aids": [],
+				"study_plan": {
+					"id": 0,
+					"day_nums": 0,
+					"article_nums": 0,
+					"learned_week_nums": 0,
+					"status": 0
+				},
+				"cate_id": 303,
+				"cate_name": "",
+				"group_tag": {
+					"is_recommend": false,
+					"is_recently_learn": false
+				}
+			}
+		}, {
+			"id": 100082501,
+			"spu": 825,
+			"ctime": 1624431817,
+			"utime": 1625725646,
+			"begin_time": 1624377600,
+			"end_time": 2540563200,
+			"price": {
+				"market": 9900,
+				"sale": 7900,
+				"sale_type": 2
+			},
+			"is_onborad": true,
+			"is_sale": true,
+			"is_groupbuy": false,
+			"is_promo": true,
+			"is_shareget": false,
+			"is_sharesale": true,
+			"type": "c1",
+			"is_column": true,
+			"is_core": true,
+			"is_video": false,
+			"is_audio": true,
+			"is_dailylesson": false,
+			"is_university": false,
+			"is_opencourse": false,
+			"is_qconp": false,
+			"nav_id": 1,
+			"title": "讲好故事",
+			"subtitle": "怎样讲一个能影响别人的好故事",
+			"intro": "对职场、社交、家庭、爱情等等场合来说，只要有人的地方，就一定有这样一项非常重要的技能，那就是“说话的艺术”。你肯定遇到过努力想要说服别人，但别人压根不听的情景；你也肯定遇到想要表达自己时不知道怎么表达的尴尬；你也会遇到想要吸引别人注意力的时刻……以上情景进一步细分，就变成了这些问题：我是一个销售，我想把自己的东西卖出去，但是很难打动客户；我是一个老板，我想团结更多的人，但是苦于不知道从何下手；我做短视频，想把自己快速传播出去，但是结果总是不尽如人意；我想要站在舞台上演讲，却不知道怎么让演讲变得精彩；我到一个新的社交场合，希望让场子暖起来，却总是显得过于笨拙……这些问题都缘于你没有准确有效地表达自己的价值，而讲好故事是可以快速打动他人的。丹尼尔·平克先生曾说故事力是未来具有核心竞争力人士的必备能力，也是未来时代人人都需要具备的优势能力。基于此，本专栏的最终目的就是让你掌握这项能力，以寻找故事的本质为出发点，不断完善故事的表达形式，让你无论从事什么行业、处于什么阶段，都能通过故事塑造自己的影响力与核心竞争力。学习上，涵柏老师将结合自己丰富的采编经历，以故事思维为抓手，带你从0到1构建一套完整的的故事体系。具体课程设计如下：原理篇：学习讲故事的基础，从认知差异、受众喜好和故事思维三个维度入手，以此加深你对人、人性、人类思维等故事要素的理解。技巧篇：寻求故事的轻与重，传授故事成型前各阶段的技巧，让你从搜集故事素材到触达故事意义，从编写故事到讲出故事皆有法可循。实战场景篇：提供4个常见情景，职场、公开演讲、产品运营以及交友场合。手把手带你应用所学技巧，在不同情景里讲出属于自己的故事，以此在日常工作和生活中有效提升自己的核心竞争力。",
+			"intro_html": "\u003cp\u003e对职场、社交、家庭、爱情等等场合来说，只要有人的地方，就一定有这样一项非常重要的技能，那就是“说话的艺术”。你肯定遇到过努力想要说服别人，但别人压根不听的情景；你也肯定遇到想要表达自己时不知道怎么表达的尴尬；你也会遇到想要吸引别人注意力的时刻……\u003c/p\u003e\n\u003cp\u003e以上情景进一步细分，就变成了这些问题：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e我是一个销售，我想把自己的东西卖出去，但是很难打动客户；\u003c/li\u003e\n\u003cli\u003e我是一个老板，我想团结更多的人，但是苦于不知道从何下手；\u003c/li\u003e\n\u003cli\u003e我做短视频，想把自己快速传播出去，但是结果总是不尽如人意；\u003c/li\u003e\n\u003cli\u003e我想要站在舞台上演讲，却不知道怎么让演讲变得精彩；\u003c/li\u003e\n\u003cli\u003e我到一个新的社交场合，希望让场子暖起来，却总是显得过于笨拙……\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e这些问题都缘于你没有准确有效地表达自己的价值，而讲好故事是可以快速打动他人的。丹尼尔·平克先生曾说故事力是未来具有核心竞争力人士的必备能力，也是未来时代人人都需要具备的优势能力。\u003c/p\u003e\n\u003cp\u003e基于此，本专栏的最终目的就是让你掌握这项能力，以寻找故事的本质为出发点，不断完善故事的表达形式，让你无论从事什么行业、处于什么阶段，都能通过故事塑造自己的影响力与核心竞争力。\u003c/p\u003e\n\u003cp\u003e学习上，涵柏老师将结合自己丰富的采编经历，以故事思维为抓手，带你从 0 到 1 构建一套完整的的故事体系。\u003c/p\u003e\n\u003cp\u003e具体课程设计如下：\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e原理篇：\u003c/strong\u003e学习讲故事的基础，从认知差异、受众喜好和故事思维三个维度入手，以此加深你对人、人性、人类思维等故事要素的理解。\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e技巧篇：\u003c/strong\u003e寻求故事的轻与重，传授故事成型前各阶段的技巧，让你从搜集故事素材到触达故事意义，从编写故事到讲出故事皆有法可循。\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e实战场景篇：\u003c/strong\u003e提供 4 个常见情景，职场、公开演讲、产品运营以及交友场合。手把手带你应用所学技巧，在不同情景里讲出属于自己的故事，以此在日常工作和生活中有效提升自己的核心竞争力。\u003c/p\u003e\n",
+			"ucode": "5D9D7FF90719CD",
+			"is_finish": false,
+			"author": {
+				"name": "涵柏",
+				"intro": "一线资深记者",
+				"info": "",
+				"avatar": "https://static001.geekbang.org/resource/image/35/d4/35753502118abbbf75cfbae3843871d4.jpg"
+			},
+			"cover": {
+				"square": "https://static001.geekbang.org/resource/image/35/d4/35753502118abbbf75cfbae3843871d4.jpg",
+				"rectangle": "https://static001.geekbang.org/resource/image/f3/92/f313e7eac0fa5442342fd39b5e11c392.jpg",
+				"horizontal": "https://static001.geekbang.org/resource/image/29/56/29ec51d399f98a8d8e23216da6aca356.jpg",
+				"lecture_horizontal": "https://static001.geekbang.org/resource/image/cc/f0/cc001149a30ef7cdd40f6ce5d25070f0.jpg",
+				"learn_horizontal": "https://static001.geekbang.org/resource/image/77/e6/7761311206522a1e94dd1f8f3ba964e6.png"
+			},
+			"article": {
+				"id": 0,
+				"count": 17,
+				"count_req": 17,
+				"count_pub": 6,
+				"total_length": 6422,
+				"first_article_id": 0,
+				"first_article_title": ""
+			},
+			"seo": {
+				"keywords": ["故事", "影响力", "表达", "演讲", "领导力", "公众号", "热点", "说话"]
+			},
+			"share": {
+				"title": "涵柏 · 讲好故事",
+				"content": "怎样讲一个能影响别人的好故事",
+				"cover": "https://static001.geekbang.org/resource/image/35/d4/35753502118abbbf75cfbae3843871d4.jpg",
+				"poster": "https://static001.geekbang.org/resource/image/6c/ed/6caa2503abbbf95c77d844ea7b5c7fed.jpg"
+			},
+			"labels": [68, 69, 71, 4, 86],
+			"unit": "17讲",
+			"column": {
+				"unit": "17讲",
+				"bgcolor": "F6F7FB",
+				"update_frequency": "每周一 / 三 / 五更新",
+				"is_preorder": false,
+				"is_finish": false,
+				"is_include_preview": true,
+				"show_chapter": true,
+				"is_sale_product": true,
+				"study_service": [1, 2, 3, 5, 8, 11],
+				"path": {
+					"desc": "你将获得：讲故事常用的7大表达方法；15秒吸引听众的讲话技巧；利用故事塑造个人影响力；如何创建自己的故事库。",
+					"desc_html": "\u003cp\u003e\u003cstrong\u003e你将获得：\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e讲故事常用的 7 大表达方法；\u003c/li\u003e\n\u003cli\u003e15 秒吸引听众的讲话技巧；\u003c/li\u003e\n\u003cli\u003e利用故事塑造个人影响力；\u003c/li\u003e\n\u003cli\u003e如何创建自己的故事库。\u003c/li\u003e\n\u003c/ul\u003e\n"
+				},
+				"is_camp": false,
+				"catalog_pic_url": "https://static001.geekbang.org/resource/image/09/a8/09f288dacc3057a69070a6d9acca38a8.jpg"
+			},
+			"dl": {
+				"article": {
+					"id": 0,
+					"video_duration": "",
+					"video_hot": 0,
+					"could_preview": false
+				},
+				"topic_ids": []
+			},
+			"university": {
+				"total_hour": 0,
+				"term": 0,
+				"redirect_type": "",
+				"redirect_param": "",
+				"wx_qrcode": "",
+				"wx_rule": "",
+				"server_start_time": 0,
+				"lecturer_h_cover": ""
+			},
+			"opencourse": {
+				"video_bg": "",
+				"ad": {
+					"cover": "",
+					"cover_web": "",
+					"redirect_type": "",
+					"redirect_param": ""
+				},
+				"article_fav": {
+					"aid": 0,
+					"had_done": false,
+					"count": 0
+				},
+				"author_h_cover": ""
+			},
+			"qconp": {
+				"topic_id": 0,
+				"cover_appoint": "",
+				"article": {
+					"id": 0,
+					"cover": "",
+					"video_duration": "",
+					"video_hot": 0
+				}
+			},
+			"extra": {
+				"sub": {
+					"count": 542,
+					"had_done": false,
+					"could_order": true,
+					"access_mask": 0
+				},
+				"fav": {
+					"count": 0,
+					"had_done": false
+				},
+				"rate": {
+					"article_count": 0,
+					"article_count_req": 0,
+					"is_finished": false,
+					"rate_percent": 0,
+					"video_seconds": 0,
+					"last_article_id": 0,
+					"last_chapter_id": 0,
+					"has_learn": false
+				},
+				"cert": {
+					"id": "",
+					"type": 0
+				},
+				"nps": {
+					"min": 9,
+					"status": 0,
+					"url": "https://jinshuju.net/f/aoDbPd"
+				},
+				"any_read": {
+					"total": 2,
+					"count": 0
+				},
+				"university": {
+					"status": 0,
+					"view_status": 0,
+					"charge_status": 0,
+					"share_renewal_status": 0,
+					"unlocked_status": 0,
+					"unlocked_chapter_ids": [],
+					"unlocked_chapter_id": 0,
+					"unlocked_chapter_title": "",
+					"unlocked_article_count": 0,
+					"unlocked_next_time": 0,
+					"expire_time": 0,
+					"is_expired": false,
+					"is_graduated": false,
+					"had_sub": false,
+					"timeline": [],
+					"has_wx_friend": false,
+					"sub_term_title": ""
+				},
+				"vip": {
+					"show": false,
+					"end_time": -1
+				},
+				"appoint": {
+					"could_do": false,
+					"had_done": false,
+					"count": 0
+				},
+				"group_buy": {
+					"success_ucount": 0,
+					"join_code": "",
+					"could_groupbuy": false,
+					"had_join": false,
+					"price": 0,
+					"list": []
+				},
+				"sharesale": {
+					"original_pic_color": "244145",
+					"original_pic_url": "https://static001.geekbang.org/render/screen/ec/f1/ec91908c958d72cd64f6cf3ba1cfe8f1.jpeg",
+					"promo_pic_color": "244145",
+					"promo_pic_url": "https://static001.geekbang.org/render/screen/ec/f1/ec91908c958d72cd64f6cf3ba1cfe8f1.jpeg",
+					"share_sale_price": 2000,
+					"share_sale_guest_price": 0
+				},
+				"promo": {
+					"ent_time": 1625846399
+				},
+				"channel": {
+					"is": false,
+					"back_amount": 0
+				},
+				"first_promo": {
+					"price": 5990,
+					"could_join": false
+				},
+				"coupon_promo": {
+					"could_join": false,
+					"price": 0
+				},
+				"helper": [],
+				"tab": {
+					"comment": false
+				},
+				"modules": [{
+					"name": "gain",
+					"title": "",
+					"content": "讲故事常用的7大表达方法15秒吸引听众的讲话技巧利用故事塑造个人影响力如何创建自己的故事库",
+					"type": ""
+				}],
+				"cid": 0,
+				"first_aids": [],
+				"study_plan": {
+					"id": 0,
+					"day_nums": 0,
+					"article_nums": 0,
+					"learned_week_nums": 0,
+					"status": 0
+				},
+				"cate_id": 303,
+				"cate_name": "",
+				"group_tag": {
+					"is_recommend": false,
+					"is_recently_learn": false
+				}
+			}
+		}, {
+			"id": 100082101,
+			"spu": 821,
+			"ctime": 1624413171,
+			"utime": 1625728269,
+			"begin_time": 1623686400,
+			"end_time": 1939910400,
+			"price": {
+				"market": 12900,
+				"sale": 9900,
+				"sale_type": 2
+			},
+			"is_onborad": true,
+			"is_sale": true,
+			"is_groupbuy": false,
+			"is_promo": true,
+			"is_shareget": false,
+			"is_sharesale": true,
+			"type": "c1",
+			"is_column": true,
+			"is_core": true,
+			"is_video": false,
+			"is_audio": true,
+			"is_dailylesson": false,
+			"is_university": false,
+			"is_opencourse": false,
+			"is_qconp": false,
+			"nav_id": 1,
+			"title": "如何落地业务建模",
+			"subtitle": "ThoughtWorks CTO带你重构建模技能",
+			"intro": "说起业务建模，我们很多人可能不知道这个东西到底有什么用，毕竟面试也很少会被问到，对平时写代码也没有什么直接的帮助。确实，业务建模是一项软技能，不会像其他的硬性技术那样让你直呼很爽。但是，具备良好的业务建模能力，会在认知层面影响你对业务、代码等方面的理解。因为业务建模首先是一个定义问题的方法，其次才是解决问题的方法。而我们通过定义问题，甚至可以把解决方案的复杂度直接降低几个数量级。有了这方面的理解，你就可以成为能给出更合理的问题解决方案的架构师，而不是一个只会倒腾各种技术方案的程序员，进而不断提高自己的职业发展天花板。不过，在业务建模的学习上，很多人是一团乱麻，不知道该从哪里入手。归根到底，业务建模真正的学习难点有两个。难点一：如何清晰定义业务问题，并让所有人接受？学习业务建模，对我们的挑战不仅是建模本身，而在于如何获取业务方的信任，并展开有效讨论。关于这一问题，大部分的建模教程都不怎么涉及，但这却是能否有效应用业务建模方法的关键。难点二：如何在特定架构的约束下实现模型？在学习建模方法时，我们往往会不自觉地忽略架构对模型的影响。于是就会出现这样一种情况：学会了一种方法，却因为不知道怎么处理架构约束，而无法将其应用到工作中。所以我们特意邀请了ThoughtWorks全球技术策略顾问、中国区CTO徐昊，来帮助你解决学习业务建模中的难题。他会将纷繁复杂的业务建模知识，融汇贯通成一个整体的架构，帮你建立起对业务建模的整体认知，切实提高你的建模能力。相信通过学习，你会感受到业务建模所蕴含的价值和力量。老师会以问题为导向，结合案例，帮助你快速掌握在单体分层架构下，业务建模的最佳实践和实现模式。同时也会讲解由自己发明的8XFlow建模法，教你如何将模型映射为微服务，以及构建中台。而课程的最高阶目标，就是让你在大量的实例锻炼中，掌握抽取业务逻辑、推导有效模型的思维方式，将模型真正应用到实际工作中，解决你的建模难题。课程设计课程主体分为两大模块。旧约：前云时代的领域驱动设计在“旧约”部分，老师会总结并提炼领域驱动设计的核心逻辑和步骤，梳理领域驱动设计在模型实现上遇到挑战时，有哪些具体应对策略。同时，还会深入讲解四种建模方法，包括：催化剂法、角色-目标-实体法、事件风暴和四色法。相信通过实战锻炼，你会高效掌握在单体分层架构下，业务建模的最佳实践及实现模式，并形成自己的知识结构。再遇到类似场景，就可以举一反三，灵活运用。新约：云时代的业务建模在“新约”部分，老师会深入讲解由自己发明的8XFlow法，以及用于SaaS化服务的魔球服务法。前者用于解决以微服务、分布式事务为主导的架构风格中的业务建模问题，构建中台系统；后者会从运营角度出发，构造SaaS化服务。而这些，完全可以满足你在更云化的架构风格下进行业务建模的诉求，让你从容应对云时代的业务建模难题。",
+			"intro_html": "\u003cp\u003e说起业务建模，我们很多人可能不知道这个东西到底有什么用，毕竟面试也很少会被问到，对平时写代码也没有什么直接的帮助。\u003c/p\u003e\n\u003cp\u003e确实，业务建模是一项软技能，不会像其他的硬性技术那样让你直呼很爽。但是，具备良好的业务建模能力，会在认知层面影响你对业务、代码等方面的理解。\u003c/p\u003e\n\u003cp\u003e因为\u003cstrong\u003e业务建模首先是一个定义问题的方法，其次才是解决问题的方法\u003c/strong\u003e。而我们通过定义问题，甚至可以\u003cstrong\u003e把解决方案的复杂度直接降低几个数量级\u003c/strong\u003e。\u003c/p\u003e\n\u003cp\u003e有了这方面的理解，你就可以成为\u003cstrong\u003e能给出更合理的问题解决方案\u003c/strong\u003e的架构师，而不是一个只会倒腾各种技术方案的程序员，进而不断提高自己的职业发展天花板。\u003c/p\u003e\n\u003cp\u003e不过，在业务建模的学习上，很多人是一团乱麻，不知道该从哪里入手。归根到底，业务建模真正的学习难点有两个。\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e难点一：如何清晰定义业务问题，并让所有人接受？\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e学习业务建模，对我们的挑战不仅是建模本身，而在于如何获取业务方的信任，并展开有效讨论。关于这一问题，大部分的建模教程都不怎么涉及，但这却是能否有效应用业务建模方法的关键。\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e难点二：如何在特定架构的约束下实现模型？\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e在学习建模方法时，我们往往会不自觉地忽略架构对模型的影响。于是就会出现这样一种情况：学会了一种方法，却因为不知道怎么处理架构约束，而无法将其应用到工作中。\u003c/p\u003e\n\u003cp\u003e所以我们特意邀请了ThoughtWorks 全球技术策略顾问、中国区CTO徐昊，来帮助你解决学习业务建模中的难题。他会将纷繁复杂的业务建模知识，融汇贯通成一个整体的架构，帮你建立起对业务建模的整体认知，切实提高你的建模能力。相信通过学习，你会感受到业务建模所蕴含的价值和力量。\u003c/p\u003e\n\u003cp\u003e\u003cimg src=\"https://static001.geekbang.org/resource/image/ee/5c/ee32033654539d074305a89a3756945c.jpg\" alt=\"\" /\u003e\u003c/p\u003e\n\u003cp\u003e老师会以问题为导向，结合案例，帮助你快速掌握在单体分层架构下，业务建模的最佳实践和实现模式。同时也会讲解由自己发明的8X Flow建模法，教你如何将模型映射为微服务，以及构建中台。\u003c/p\u003e\n\u003cp\u003e而课程的最高阶目标，就是让你在大量的实例锻炼中，掌握抽取业务逻辑、推导有效模型的思维方式，将模型真正应用到实际工作中，解决你的建模难题。\u003c/p\u003e\n\u003ch3\u003e课程设计\u003c/h3\u003e\n\u003cp\u003e课程主体分为两大模块。\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e旧约：前云时代的领域驱动设计\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e在“旧约”部分，老师会总结并提炼\u003cstrong\u003e领域驱动设计的核心逻辑和步骤\u003c/strong\u003e\u003cstrong\u003e，\u003c/strong\u003e梳理领域驱动设计在模型实现上遇到挑战时，有哪些具体应对策略。同时，还会深入讲解四种建模方法，包括：催化剂法、角色-目标-实体法、事件风暴和四色法。\u003c/p\u003e\n\u003cp\u003e相信通过实战锻炼，你会高效掌握在单体分层架构下，业务建模的最佳实践及实现模式，并形成自己的知识结构。再遇到类似场景，就可以举一反三，灵活运用。\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e新约：云时代的业务建模\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e在“新约”部分，老师会深入讲解由自己发明的\u003cstrong\u003e8X Flow法\u003c/strong\u003e，以及用于SaaS化服务的\u003cstrong\u003e魔球服务法\u003c/strong\u003e。前者用于解决以\u003cstrong\u003e微服务、分布式事务为主导的架构风格中的业务建模问题，构建中台系统\u003c/strong\u003e；后者会从运营角度出发，构造SaaS化服务。\u003c/p\u003e\n\u003cp\u003e而这些，完全可以满足你\u003cstrong\u003e在更云化的架构风格下进行业务建模\u003c/strong\u003e的诉求，让你从容应对云时代的业务建模难题。\u003c/p\u003e\n",
+			"ucode": "DA6D1EB08A7396",
+			"is_finish": false,
+			"author": {
+				"name": "徐昊",
+				"intro": "ThoughtWorks中国区CTO",
+				"info": "",
+				"avatar": "https://static001.geekbang.org/resource/image/0b/db/0bfe78d076a906dcec25e4bb91f4d9db.jpg"
+			},
+			"cover": {
+				"square": "https://static001.geekbang.org/resource/image/0b/db/0bfe78d076a906dcec25e4bb91f4d9db.jpg",
+				"rectangle": "https://static001.geekbang.org/resource/image/29/63/29d205912609298f7846913b92fc1563.jpg",
+				"horizontal": "https://static001.geekbang.org/resource/image/53/f4/53f23c0e64bc3997f45yy272675e85f4.jpg",
+				"lecture_horizontal": "https://static001.geekbang.org/resource/image/ae/6b/ae2ecbbyy965c9b49f7efce616628c6b.jpg",
+				"learn_horizontal": "https://static001.geekbang.org/resource/image/32/b5/32bdd64756514ef69028e26c39e997b5.png"
+			},
+			"article": {
+				"id": 0,
+				"count": 22,
+				"count_req": 22,
+				"count_pub": 8,
+				"total_length": 9337,
+				"first_article_id": 0,
+				"first_article_title": ""
+			},
+			"seo": {
+				"keywords": ["业务建模", "DDD", "领域驱动设计", "8X Flow", "企业架构", "事件风暴", "微服务", "云原生架构", "弹性边界", "徐昊", "徐八叉", "ThoughtWorks", "CTO"]
+			},
+			"share": {
+				"title": "徐昊 · 如何落地业务建模",
+				"content": "ThoughtWorks CTO带你重构建模技能",
+				"cover": "https://static001.geekbang.org/resource/image/0b/db/0bfe78d076a906dcec25e4bb91f4d9db.jpg",
+				"poster": "https://static001.geekbang.org/resource/image/aa/aa/aa4e4881yy3d69fd73a7a3f7b9feb6aa.jpg"
+			},
+			"labels": [71, 4, 3, 26, 19, 18, 14, 20, 22, 65, 6],
+			"unit": "22讲",
+			"column": {
+				"unit": "22讲",
+				"bgcolor": "F6F7FB",
+				"update_frequency": "每周二 / 四 / 六更新",
+				"is_preorder": false,
+				"is_finish": false,
+				"is_include_preview": true,
+				"show_chapter": true,
+				"is_sale_product": true,
+				"study_service": [1, 2, 3, 8, 11],
+				"path": {
+					"desc": "你将获得：洞悉建模设计的本质和目的；全套业务建模思维指导性训练；微服务、中台建模方法及最佳实践；构造SaaS化服务的全新方法论。",
+					"desc_html": "\u003cp\u003e\u003cstrong\u003e你将获得：\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e洞悉建模设计的本质和目的；\u003c/li\u003e\n\u003cli\u003e全套业务建模思维指导性训练；\u003c/li\u003e\n\u003cli\u003e微服务、中台建模方法及最佳实践；\u003c/li\u003e\n\u003cli\u003e构造SaaS化服务的全新方法论。\u003c/li\u003e\n\u003c/ul\u003e\n"
+				},
+				"is_camp": false,
+				"catalog_pic_url": "https://static001.geekbang.org/resource/image/d0/a5/d0859bca6a5037e4a2dfbe776d3048a5.jpg"
+			},
+			"dl": {
+				"article": {
+					"id": 0,
+					"video_duration": "",
+					"video_hot": 0,
+					"could_preview": false
+				},
+				"topic_ids": []
+			},
+			"university": {
+				"total_hour": 0,
+				"term": 0,
+				"redirect_type": "",
+				"redirect_param": "",
+				"wx_qrcode": "",
+				"wx_rule": "",
+				"server_start_time": 0,
+				"lecturer_h_cover": ""
+			},
+			"opencourse": {
+				"video_bg": "",
+				"ad": {
+					"cover": "",
+					"cover_web": "",
+					"redirect_type": "",
+					"redirect_param": ""
+				},
+				"article_fav": {
+					"aid": 0,
+					"had_done": false,
+					"count": 0
+				},
+				"author_h_cover": ""
+			},
+			"qconp": {
+				"topic_id": 0,
+				"cover_appoint": "",
+				"article": {
+					"id": 0,
+					"cover": "",
+					"video_duration": "",
+					"video_hot": 0
+				}
+			},
+			"extra": {
+				"sub": {
+					"count": 1889,
+					"had_done": false,
+					"could_order": true,
+					"access_mask": 0
+				},
+				"fav": {
+					"count": 0,
+					"had_done": false
+				},
+				"rate": {
+					"article_count": 0,
+					"article_count_req": 0,
+					"is_finished": false,
+					"rate_percent": 0,
+					"video_seconds": 0,
+					"last_article_id": 0,
+					"last_chapter_id": 0,
+					"has_learn": false
+				},
+				"cert": {
+					"id": "",
+					"type": 0
+				},
+				"nps": {
+					"min": 11,
+					"status": 0,
+					"url": "https://jinshuju.net/f/fBCGVh"
+				},
+				"any_read": {
+					"total": 2,
+					"count": 0
+				},
+				"university": {
+					"status": 0,
+					"view_status": 0,
+					"charge_status": 0,
+					"share_renewal_status": 0,
+					"unlocked_status": 0,
+					"unlocked_chapter_ids": [],
+					"unlocked_chapter_id": 0,
+					"unlocked_chapter_title": "",
+					"unlocked_article_count": 0,
+					"unlocked_next_time": 0,
+					"expire_time": 0,
+					"is_expired": false,
+					"is_graduated": false,
+					"had_sub": false,
+					"timeline": [],
+					"has_wx_friend": false,
+					"sub_term_title": ""
+				},
+				"vip": {
+					"show": false,
+					"end_time": -1
+				},
+				"appoint": {
+					"could_do": false,
+					"had_done": false,
+					"count": 0
+				},
+				"group_buy": {
+					"success_ucount": 0,
+					"join_code": "",
+					"could_groupbuy": false,
+					"had_join": false,
+					"price": 0,
+					"list": []
+				},
+				"sharesale": {
+					"original_pic_color": "374D76",
+					"original_pic_url": "https://static001.geekbang.org/render/screen/4a/53/4a451ed8acd235921bed868d45df9c53.jpeg",
+					"promo_pic_color": "374D76",
+					"promo_pic_url": "https://static001.geekbang.org/render/screen/4a/53/4a451ed8acd235921bed868d45df9c53.jpeg",
+					"share_sale_price": 2000,
+					"share_sale_guest_price": 0
+				},
+				"promo": {
+					"ent_time": 1625932799
+				},
+				"channel": {
+					"is": false,
+					"back_amount": 0
+				},
+				"first_promo": {
+					"price": 5990,
+					"could_join": false
+				},
+				"coupon_promo": {
+					"could_join": false,
+					"price": 0
+				},
+				"helper": [],
+				"tab": {
+					"comment": false
+				},
+				"modules": [{
+					"name": "gain",
+					"title": "",
+					"content": "洞悉建模设计的本质和目的全套业务建模思维指导性训练微服务、中台建模方法及最佳实践构造SaaS化服务的全新方法论",
+					"type": ""
+				}],
+				"cid": 0,
+				"first_aids": [],
+				"study_plan": {
+					"id": 0,
+					"day_nums": 0,
+					"article_nums": 0,
+					"learned_week_nums": 0,
+					"status": 0
+				},
+				"cate_id": 303,
+				"cate_name": "",
+				"group_tag": {
+					"is_recommend": false,
+					"is_recently_learn": false
+				}
+			}
+		}, {
+			"id": 100036001,
+			"spu": 360,
+			"ctime": 1568716459,
+			"utime": 1625155223,
+			"begin_time": 1568736000,
+			"end_time": 1884355200,
+			"price": {
+				"market": 12900,
+				"sale": 9900,
+				"sale_type": 3
+			},
+			"is_onborad": true,
+			"is_sale": true,
+			"is_groupbuy": true,
+			"is_promo": false,
+			"is_shareget": false,
+			"is_sharesale": true,
+			"type": "c3",
+			"is_column": true,
+			"is_core": true,
+			"is_video": true,
+			"is_audio": false,
+			"is_dailylesson": false,
+			"is_university": false,
+			"is_opencourse": false,
+			"is_qconp": false,
+			"nav_id": 2,
+			"title": "Node.js开发实战",
+			"subtitle": "带你开发一个完整的Node.js项目",
+			"intro": "Node.js拥有广大的JavaScript程序员基础并且完全开源，所以它拥有一个强大的开发者社区。依靠繁荣的社区力量，现在已经发展出成熟的技术体系与庞大的生态。它被广泛地用在Web服务、开发工作流、客户端应用等诸多领域。其中，在Web服务开发这个领域，业界对Node.js的接受程度最高。对于很多前端开发者来说，掌握Node.js的基础知识并不难，难点在于如何按照后端工程师的思维，基于Node.js来一步步构建项目，其中涉及诸如RPC调用、系统运维以及进程管理等前端工程师较少涉及到的领域。因此，本课程站在一个前端工程师的角度，讲解如何基于Node.js开发一个完整的项目，从一开始的技术预研再到实际开发、性能优化以及最终的框架架构搭建和工程化建设，带你完整体验一遍前端工程师使用Node.js进行项目开发会碰到的各种常见场景和技术难点，学完课程之后，你将能够熟练运用Node.js进行大型项目的设计和开发。",
+			"intro_html": "\u003cp\u003eNode.js 拥有广大的 JavaScript 程序员基础并且完全开源，所以它拥有一个强大的开发者社区。依靠繁荣的社区力量，现在已经发展出成熟的技术体系与庞大的生态。它被广泛地用在 Web 服务、开发工作流、客户端应用等诸多领域。其中，在 Web 服务开发这个领域，业界对 Node.js 的接受程度最高。\u003c/p\u003e\n\u003cp\u003e对于很多前端开发者来说，掌握 Node.js 的基础知识并不难，难点在于如何按照后端工程师的思维，基于 Node.js 来一步步构建项目，其中涉及诸如 RPC 调用、系统运维以及进程管理等前端工程师较少涉及到的领域。\u003c/p\u003e\n\u003cp\u003e因此，本课程站在一个前端工程师的角度，讲解如何基于 Node.js 开发一个完整的项目，从一开始的技术预研再到实际开发、性能优化以及最终的框架架构搭建和工程化建设，带你完整体验一遍前端工程师使用 Node.js进行项目开发会碰到的各种常见场景和技术难点，学完课程之后，你将能够熟练运用 Node.js 进行大型项目的设计和开发。\u003c/p\u003e\n",
+			"ucode": "904E9248FBBB51",
+			"is_finish": true,
+			"author": {
+				"name": "杨浩",
+				"intro": "腾讯高级工程师",
+				"info": "",
+				"avatar": "https://static001.geekbang.org/resource/image/45/7b/459f88392458174545aa98f6b023667b.jpg"
+			},
+			"cover": {
+				"square": "https://static001.geekbang.org/resource/image/45/7b/459f88392458174545aa98f6b023667b.jpg",
+				"rectangle": "https://static001.geekbang.org/resource/image/42/78/42db8ef7b28bcdc26410141dd97b8178.jpg",
+				"horizontal": "https://static001.geekbang.org/resource/image/3e/f2/ea82a92778c9a309df8c06ecbc28.jpg",
+				"lecture_horizontal": "https://static001.geekbang.org/resource/image/93/86/93038836c5338708dc54c8e660cbe286.jpg",
+				"learn_horizontal": "https://static001.geekbang.org/resource/image/5b/4a/5bd5648b6edc062ff337b2c21c7c1a4a.png"
+			},
+			"article": {
+				"id": 0,
+				"count": 57,
+				"count_req": 57,
+				"count_pub": 57,
+				"total_length": 39894,
+				"first_article_id": 0,
+				"first_article_title": ""
+			},
+			"seo": {
+				"keywords": ["Node", "前端"]
+			},
+			"share": {
+				"title": "杨浩 · Node.js开发实战",
+				"content": "带你开发一个完整的Node.js项目",
+				"cover": "https://static001.geekbang.org/resource/image/45/7b/459f88392458174545aa98f6b023667b.jpg",
+				"poster": ""
+			},
+			"labels": [5, 41],
+			"unit": "57讲",
+			"column": {
+				"unit": "57讲",
+				"bgcolor": "F6F7FB",
+				"update_frequency": "全集",
+				"is_preorder": false,
+				"is_finish": true,
+				"is_include_preview": true,
+				"show_chapter": true,
+				"is_sale_product": true,
+				"study_service": [1, 2, 3, 5],
+				"path": {
+					"desc": "你将获得：Node.js开发必备基础知识；使用Node.js构建BFF层；一个完整项目的开发重构实战；性能优化和工程化建设核心方法。",
+					"desc_html": "\u003cp\u003e\u003cstrong\u003e你将获得\u003c/strong\u003e：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eNode.js 开发必备基础知识；\u003c/li\u003e\n\u003cli\u003e使用 Node.js 构建 BFF 层；\u003c/li\u003e\n\u003cli\u003e一个完整项目的开发重构实战；\u003c/li\u003e\n\u003cli\u003e性能优化和工程化建设核心方法。\u003c/li\u003e\n\u003c/ul\u003e\n"
+				},
+				"is_camp": false,
+				"catalog_pic_url": ""
+			},
+			"dl": {
+				"article": {
+					"id": 0,
+					"video_duration": "",
+					"video_hot": 0,
+					"could_preview": false
+				},
+				"topic_ids": []
+			},
+			"university": {
+				"total_hour": 0,
+				"term": 0,
+				"redirect_type": "",
+				"redirect_param": "",
+				"wx_qrcode": "",
+				"wx_rule": "",
+				"server_start_time": 0,
+				"lecturer_h_cover": ""
+			},
+			"opencourse": {
+				"video_bg": "",
+				"ad": {
+					"cover": "",
+					"cover_web": "",
+					"redirect_type": "",
+					"redirect_param": ""
+				},
+				"article_fav": {
+					"aid": 0,
+					"had_done": false,
+					"count": 0
+				},
+				"author_h_cover": ""
+			},
+			"qconp": {
+				"topic_id": 0,
+				"cover_appoint": "",
+				"article": {
+					"id": 0,
+					"cover": "",
+					"video_duration": "",
+					"video_hot": 0
+				}
+			},
+			"extra": {
+				"sub": {
+					"count": 8769,
+					"had_done": false,
+					"could_order": true,
+					"access_mask": 0
+				},
+				"fav": {
+					"count": 0,
+					"had_done": false
+				},
+				"rate": {
+					"article_count": 0,
+					"article_count_req": 0,
+					"is_finished": false,
+					"rate_percent": 0,
+					"video_seconds": 0,
+					"last_article_id": 0,
+					"last_chapter_id": 0,
+					"has_learn": false
+				},
+				"cert": {
+					"id": "",
+					"type": 0
+				},
+				"nps": {
+					"min": 29,
+					"status": 0,
+					"url": "https://jinshuju.net/f/7oiqqu"
+				},
+				"any_read": {
+					"total": 0,
+					"count": 0
+				},
+				"university": {
+					"status": 0,
+					"view_status": 0,
+					"charge_status": 0,
+					"share_renewal_status": 0,
+					"unlocked_status": 0,
+					"unlocked_chapter_ids": [],
+					"unlocked_chapter_id": 0,
+					"unlocked_chapter_title": "",
+					"unlocked_article_count": 0,
+					"unlocked_next_time": 0,
+					"expire_time": 0,
+					"is_expired": false,
+					"is_graduated": false,
+					"had_sub": false,
+					"timeline": [],
+					"has_wx_friend": false,
+					"sub_term_title": ""
+				},
+				"vip": {
+					"show": false,
+					"end_time": -1
+				},
+				"appoint": {
+					"could_do": false,
+					"had_done": false,
+					"count": 0
+				},
+				"group_buy": {
+					"success_ucount": 2,
+					"join_code": "",
+					"could_groupbuy": false,
+					"had_join": false,
+					"price": 9900,
+					"list": []
+				},
+				"sharesale": {
+					"original_pic_color": "595656",
+					"original_pic_url": "https://static001.geekbang.org/resource/image/e7/a9/e73644d61ee7fd8838b6fbf02c2d7fa9.jpg",
+					"promo_pic_color": "595656",
+					"promo_pic_url": "https://static001.geekbang.org/resource/image/6e/7c/6e2515e1bdyy761150a126cfd697c27c.jpg",
+					"share_sale_price": 2000,
+					"share_sale_guest_price": 0
+				},
+				"promo": {
+					"ent_time": 0
+				},
+				"channel": {
+					"is": false,
+					"back_amount": 0
+				},
+				"first_promo": {
+					"price": 5990,
+					"could_join": false
+				},
+				"coupon_promo": {
+					"could_join": false,
+					"price": 0
+				},
+				"helper": [],
+				"tab": {
+					"comment": false
+				},
+				"modules": [{
+					"name": "gain",
+					"title": "",
+					"content": "Node.js开发必备基础知识；使用Node.js构建BFF层；一个完整项目的开发重构实战；性能优化和工程化建设核心方法。",
+					"type": ""
+				}],
+				"cid": 0,
+				"first_aids": [],
+				"study_plan": {
+					"id": 0,
+					"day_nums": 0,
+					"article_nums": 0,
+					"learned_week_nums": 0,
+					"status": 0
+				},
+				"cate_id": 320,
+				"cate_name": "",
+				"group_tag": {
+					"is_recommend": false,
+					"is_recently_learn": false
+				}
+			}
+		}, {
+			"id": 100032201,
+			"spu": 322,
+			"ctime": 1563331987,
+			"utime": 1625139933,
+			"begin_time": 1563292800,
+			"end_time": 1878912000,
+			"price": {
+				"market": 12900,
+				"sale": 9900,
+				"sale_type": 3
+			},
+			"is_onborad": true,
+			"is_sale": true,
+			"is_groupbuy": true,
+			"is_promo": false,
+			"is_shareget": false,
+			"is_sharesale": true,
+			"type": "c3",
+			"is_column": true,
+			"is_core": true,
+			"is_video": true,
+			"is_audio": false,
+			"is_dailylesson": false,
+			"is_university": false,
+			"is_opencourse": false,
+			"is_qconp": false,
+			"nav_id": 2,
+			"title": "TypeScript开发实战",
+			"subtitle": "系统掌握TypeScript核心技术",
+			"intro": "JavaScript是一门动态弱类型语言，对变量的类型非常宽容，而且不会在这些变量和它们的调用者之间建立结构化的契约。如果你长期在没有类型约束的环境下开发，就会造成“类型思维”的缺失，养成不良的编程习惯。TypeScript的出现很好地解决了这个问题，它为JavaScript提供了良好的类型检查支持，而且能够编译成标准的JavaScript。目前，Angular已经使用TypeScript重构了代码，另一大前端框架Vue的新版本也将使用TypeScript进行重构。在可预见的未来，TypeScript将成为前端开发者必须掌握的开发语言之一。这门课程将从TypeScript的基础语法开始讲起，为你详细解读TypeScript的每个特性以及它与JavaScript的区别，并通过工程篇和实战篇的讲解，让你能够熟练使用TypeScript进行实战项目的开发。",
+			"intro_html": "\u003cp\u003eJavaScript 是一门动态弱类型语言，对变量的类型非常宽容，而且不会在这些变量和它们的调用者之间建立结构化的契约。\u003c/p\u003e\n\u003cp\u003e如果你长期在没有类型约束的环境下开发，就会造成“类型思维”的缺失，养成不良的编程习惯。\u003c/p\u003e\n\u003cp\u003eTypeScript 的出现很好地解决了这个问题，它为JavaScript提供了良好的类型检查支持，而且能够编译成标准的 JavaScript。\u003c/p\u003e\n\u003cp\u003e目前， Angular 已经使用 TypeScript 重构了代码，另一大前端框架 Vue 的新版本也将使用 TypeScript 进行重构。在可预见的未来，TypeScript 将成为前端开发者必须掌握的开发语言之一。\u003c/p\u003e\n\u003cp\u003e这门课程将从 TypeScript 的基础语法开始讲起，为你详细解读 TypeScript 的每个特性以及它与 JavaScript 的区别，并通过工程篇和实战篇的讲解，让你能够熟练使用 TypeScript 进行实战项目的开发。\u003c/p\u003e\n",
+			"ucode": "F6AFA24231CB50",
+			"is_finish": true,
+			"author": {
+				"name": "梁宵",
+				"intro": "搜狗营销事业部高级架构师",
+				"info": "",
+				"avatar": "https://static001.geekbang.org/resource/image/dd/d7/dd1c5314df365b8452093ab6022a11d7.jpg"
+			},
+			"cover": {
+				"square": "https://static001.geekbang.org/resource/image/dd/d7/dd1c5314df365b8452093ab6022a11d7.jpg",
+				"rectangle": "https://static001.geekbang.org/resource/image/cb/61/cb0daf759635bacb07aed0e1cec43561.jpg",
+				"horizontal": "https://static001.geekbang.org/resource/image/71/75/f8a5c55fcc7ceeb7fc5bcf5dc04d.jpg",
+				"lecture_horizontal": "https://static001.geekbang.org/resource/image/00/a2/00ad5f88871fd190b3197e7fa1d8d8a2.jpg",
+				"learn_horizontal": "https://static001.geekbang.org/resource/image/fa/d7/fa9497b3c3f85537c90720e61a9c4ad7.png"
+			},
+			"article": {
+				"id": 0,
+				"count": 47,
+				"count_req": 47,
+				"count_pub": 47,
+				"total_length": 31327,
+				"first_article_id": 0,
+				"first_article_title": ""
+			},
+			"seo": {
+				"keywords": ["TypeScript", "前端"]
+			},
+			"share": {
+				"title": "梁宵 · TypeScript开发实战",
+				"content": "系统掌握TypeScript核心技术",
+				"cover": "https://static001.geekbang.org/resource/image/dd/d7/dd1c5314df365b8452093ab6022a11d7.jpg",
+				"poster": ""
+			},
+			"labels": [5, 31],
+			"unit": "47讲",
+			"column": {
+				"unit": "47讲",
+				"bgcolor": "F6F7FB",
+				"update_frequency": "全集",
+				"is_preorder": false,
+				"is_finish": true,
+				"is_include_preview": true,
+				"show_chapter": true,
+				"is_sale_product": true,
+				"study_service": [1, 2, 3, 5],
+				"path": {
+					"desc": "你将获得：深入理解TypeScript核心概念；熟练进行TypeScript工程配置；玩转四种典型前端应用的开发；重塑“类型思维”，提升编程素养。",
+					"desc_html": "\u003cp\u003e\u003cstrong\u003e你将获得\u003c/strong\u003e：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e深入理解 TypeScript 核心概念；\u003c/li\u003e\n\u003cli\u003e熟练进行 TypeScript 工程配置；\u003c/li\u003e\n\u003cli\u003e玩转四种典型前端应用的开发；\u003c/li\u003e\n\u003cli\u003e重塑“类型思维”，提升编程素养。\u003c/li\u003e\n\u003c/ul\u003e\n"
+				},
+				"is_camp": false,
+				"catalog_pic_url": ""
+			},
+			"dl": {
+				"article": {
+					"id": 0,
+					"video_duration": "",
+					"video_hot": 0,
+					"could_preview": false
+				},
+				"topic_ids": []
+			},
+			"university": {
+				"total_hour": 0,
+				"term": 0,
+				"redirect_type": "",
+				"redirect_param": "",
+				"wx_qrcode": "",
+				"wx_rule": "",
+				"server_start_time": 0,
+				"lecturer_h_cover": ""
+			},
+			"opencourse": {
+				"video_bg": "",
+				"ad": {
+					"cover": "",
+					"cover_web": "",
+					"redirect_type": "",
+					"redirect_param": ""
+				},
+				"article_fav": {
+					"aid": 0,
+					"had_done": false,
+					"count": 0
+				},
+				"author_h_cover": ""
+			},
+			"qconp": {
+				"topic_id": 0,
+				"cover_appoint": "",
+				"article": {
+					"id": 0,
+					"cover": "",
+					"video_duration": "",
+					"video_hot": 0
+				}
+			},
+			"extra": {
+				"sub": {
+					"count": 6394,
+					"had_done": false,
+					"could_order": true,
+					"access_mask": 0
+				},
+				"fav": {
+					"count": 0,
+					"had_done": false
+				},
+				"rate": {
+					"article_count": 0,
+					"article_count_req": 0,
+					"is_finished": false,
+					"rate_percent": 0,
+					"video_seconds": 0,
+					"last_article_id": 0,
+					"last_chapter_id": 0,
+					"has_learn": false
+				},
+				"cert": {
+					"id": "",
+					"type": 0
+				},
+				"nps": {
+					"min": 24,
+					"status": 0,
+					"url": "https://jinshuju.net/f/aYBSv9"
+				},
+				"any_read": {
+					"total": 0,
+					"count": 0
+				},
+				"university": {
+					"status": 0,
+					"view_status": 0,
+					"charge_status": 0,
+					"share_renewal_status": 0,
+					"unlocked_status": 0,
+					"unlocked_chapter_ids": [],
+					"unlocked_chapter_id": 0,
+					"unlocked_chapter_title": "",
+					"unlocked_article_count": 0,
+					"unlocked_next_time": 0,
+					"expire_time": 0,
+					"is_expired": false,
+					"is_graduated": false,
+					"had_sub": false,
+					"timeline": [],
+					"has_wx_friend": false,
+					"sub_term_title": ""
+				},
+				"vip": {
+					"show": false,
+					"end_time": -1
+				},
+				"appoint": {
+					"could_do": false,
+					"had_done": false,
+					"count": 0
+				},
+				"group_buy": {
+					"success_ucount": 2,
+					"join_code": "",
+					"could_groupbuy": false,
+					"had_join": false,
+					"price": 9900,
+					"list": []
+				},
+				"sharesale": {
+					"original_pic_color": "595656",
+					"original_pic_url": "https://static001.geekbang.org/resource/image/83/09/83da25272696c8788a5e2076b5c48109.jpg",
+					"promo_pic_color": "595656",
+					"promo_pic_url": "https://static001.geekbang.org/resource/image/87/22/87588c9ed247f8bfeac6f9224a615d22.jpg",
+					"share_sale_price": 2000,
+					"share_sale_guest_price": 0
+				},
+				"promo": {
+					"ent_time": 0
+				},
+				"channel": {
+					"is": false,
+					"back_amount": 0
+				},
+				"first_promo": {
+					"price": 5990,
+					"could_join": false
+				},
+				"coupon_promo": {
+					"could_join": false,
+					"price": 0
+				},
+				"helper": [],
+				"tab": {
+					"comment": false
+				},
+				"modules": [{
+					"name": "gain",
+					"title": "",
+					"content": "深入理解TypeScript核心概念；熟练进行TypeScript工程配置；玩转四种典型前端应用的开发；重塑“类型思维”，提升编程素养。",
+					"type": ""
+				}],
+				"cid": 0,
+				"first_aids": [],
+				"study_plan": {
+					"id": 0,
+					"day_nums": 0,
+					"article_nums": 0,
+					"learned_week_nums": 0,
+					"status": 0
+				},
+				"cate_id": 320,
+				"cate_name": "",
+				"group_tag": {
+					"is_recommend": false,
+					"is_recently_learn": false
+				}
+			}
+		}, {
+			"id": 100039701,
+			"spu": 397,
+			"ctime": 1573102704,
+			"utime": 1625139940,
+			"begin_time": 1573056000,
+			"end_time": 1888934400,
+			"price": {
+				"market": 9900,
+				"sale": 7900,
+				"sale_type": 3
+			},
+			"is_onborad": true,
+			"is_sale": true,
+			"is_groupbuy": true,
+			"is_promo": false,
+			"is_shareget": false,
+			"is_sharesale": true,
+			"type": "c1",
+			"is_column": true,
+			"is_core": true,
+			"is_video": false,
+			"is_audio": true,
+			"is_dailylesson": false,
+			"is_university": false,
+			"is_opencourse": false,
+			"is_qconp": false,
+			"nav_id": 1,
+			"title": "JavaScript核心原理解析",
+			"subtitle": "重构你对JavaScript语言的认知",
+			"intro": "作为前端工程师必备技能，JavaScript的重要性不言而喻。但是，很多人对JavaScript的印象都只是“简单易学”，对其掌握也仅仅停留在“会用就好”，以至于不求甚解、迷失于JavaScript。究其原因，他们从来都只是“写代码”，而没有去真正去了解、去探索“什么是语言”。JavaScript作为一门语言，虽然易上手，但却有着诸多复杂微妙的机制，想要真正掌握绝非易事。而这些机制，正是JavaScript语言的精髓。只有当你深入理解语言内部的实现原理，才能做到无论出现什么新技术、新框架，都能轻松应对。而这个专栏将以“语言”为核心，主要讨论语言设计、结构化和面向对象特性，以及部分的动态语言特性。通过本专栏，希望你能找到自己对语言的认识，构建一个语言知识结构。专栏的每一讲都是一个独立话题，以一行代码为标题，整个话题会围绕该行代码展开。内容包括：代码的特殊性，代码所涉问题的领域，代码的逐步分解解析，与该代码相似的或同类的问题，潜在的应用，不为人知的历史，标准规范对此的态度，业界的一些看法与争议等等。专栏正文共21期，分为4个模块。“从零开始”主要讲述构成JavaScript语言的基础——JavaScript语言的静态结构，主要包括词法环境、块级作用域、语句、声明、字面量、变量环境、模块（名字空间）等等。“从表达式到执行引擎”主要讲述JavaScript的执行过程，主要包括执行栈、执行队列、执行上下文、函数（函数对象/闭包）作为执行结构如何参与运算等等，还将讲述表达式（运算符+操作数）与优先级这个体系，说明表达式运算与语句运算间的不同。“从原型到类”主要讲述JavaScript面向对象编程体系中最核心的一些设计，包括类继承、原型继承、属性表的使用、内部方法等等，并对索引数组和关联数组在JavaScript中的应用与整合做深度分析。“从粗通到精通的进阶之路”主要讲述JavaScript作为动态语言的主要特性，包括动态的类型、动态的执行过程和动态的环境上下文等等。",
+			"intro_html": "\u003cp\u003e作为前端工程师必备技能，JavaScript 的重要性不言而喻。但是，很多人对 JavaScript 的印象都只是“简单易学”，对其掌握也仅仅停留在“会用就好”，以至于不求甚解、迷失于 JavaScript 。究其原因，他们从来都只是“写代码”，而没有去真正去了解、去探索“什么是语言”。\u003c/p\u003e\n\u003cp\u003eJavaScript 作为一门语言，虽然易上手，但却有着诸多复杂微妙的机制，想要真正掌握绝非易事。而这些机制，正是 JavaScript 语言的精髓。只有当你深入理解语言内部的实现原理，才能做到无论出现什么新技术、新框架，都能轻松应对。\u003c/p\u003e\n\u003cp\u003e而这个专栏将以“语言”为核心，主要讨论语言设计、结构化和面向对象特性，以及部分的动态语言特性。通过本专栏，希望你能找到自己对语言的认识，构建一个语言知识结构。\u003c/p\u003e\n\u003cp\u003e专栏的每一讲都是一个独立话题，以一行代码为标题，整个话题会围绕该行代码展开。内容包括：代码的特殊性，代码所涉问题的领域，代码的逐步分解解析，与该代码相似的或同类的问题，潜在的应用，不为人知的历史，标准规范对此的态度，业界的一些看法与争议等等。\u003c/p\u003e\n\u003cp\u003e专栏正文共21期，分为4个模块。\u003c/p\u003e\n\u003cp\u003e“\u003cstrong\u003e从零开始\u003c/strong\u003e”主要讲述构成JavaScript语言的基础——JavaScript语言的静态结构，主要包括词法环境、块级作用域、语句、声明、字面量、变量环境、模块（名字空间）等等。\u003c/p\u003e\n\u003cp\u003e“\u003cstrong\u003e从表达式到执行引擎\u003c/strong\u003e”主要讲述JavaScript的执行过程，主要包括执行栈、执行队列、执行上下文、函数（函数对象/闭包）作为执行结构如何参与运算等等，还将讲述表达式（运算符+操作数）与优先级这个体系，说明表达式运算与语句运算间的不同。\u003c/p\u003e\n\u003cp\u003e“\u003cstrong\u003e从原型到类\u003c/strong\u003e”主要讲述JavaScript面向对象编程体系中最核心的一些设计，包括类继承、原型继承、属性表的使用、内部方法等等，并对索引数组和关联数组在JavaScript中的应用与整合做深度分析。\u003c/p\u003e\n\u003cp\u003e“\u003cstrong\u003e从粗通到精通的进阶之路\u003c/strong\u003e”主要讲述JavaScript作为动态语言的主要特性，包括动态的类型、动态的执行过程和动态的环境上下文等等。\u003c/p\u003e\n",
+			"ucode": "66292B32F9960A",
+			"is_finish": true,
+			"author": {
+				"name": "周爱民",
+				"intro": "《JavaScript语言精髓与编程实践》作者，南潮科技（Ruff）首席架构师",
+				"info": "",
+				"avatar": "https://static001.geekbang.org/resource/image/f4/1e/f4b4ccf71ee85661a1f09390cf34b81e.jpg"
+			},
+			"cover": {
+				"square": "https://static001.geekbang.org/resource/image/f4/1e/f4b4ccf71ee85661a1f09390cf34b81e.jpg",
+				"rectangle": "https://static001.geekbang.org/resource/image/44/49/44ff035a6e90f550ea0fac2e8cc8f249.jpg",
+				"horizontal": "https://static001.geekbang.org/resource/image/d6/ab/37dae2bd29ca7b0b1278801fe922.jpg",
+				"lecture_horizontal": "https://static001.geekbang.org/resource/image/1d/f4/1dee6be675d9badc8705d154a8d5e7f4.jpg",
+				"learn_horizontal": "https://static001.geekbang.org/resource/image/15/fb/155008d7ebd19099603a15a5c47f4ffb.png"
+			},
+			"article": {
+				"id": 0,
+				"count": 28,
+				"count_req": 25,
+				"count_pub": 28,
+				"total_length": 30553,
+				"first_article_id": 0,
+				"first_article_title": ""
+			},
+			"seo": {
+				"keywords": ["前端", "JavaScript"]
+			},
+			"share": {
+				"title": "周爱民 · JavaScript核心原理解析",
+				"content": "重构你对JavaScript语言的认知",
+				"cover": "https://static001.geekbang.org/resource/image/f4/1e/f4b4ccf71ee85661a1f09390cf34b81e.jpg",
+				"poster": "https://static001.geekbang.org/resource/image/38/03/38b094a27df55c2ac8eda23330c20a03.jpg"
+			},
+			"labels": [5, 30, 32],
+			"unit": "28讲",
+			"column": {
+				"unit": "28讲",
+				"bgcolor": "F6F7FB",
+				"update_frequency": "全集",
+				"is_preorder": false,
+				"is_finish": true,
+				"is_include_preview": true,
+				"show_chapter": true,
+				"is_sale_product": true,
+				"study_service": [1, 2, 3, 5, 14],
+				"path": {
+					"desc": "你将获得：深度解读JavaScript核心技术；JavaScript语言特性以及原理剖析；帮你构建语言知识结构体系；JavaScript的精进指南。",
+					"desc_html": "\u003cp\u003e\u003cstrong\u003e你将获得\u003c/strong\u003e：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e深度解读 JavaScript 核心技术；\u003c/li\u003e\n\u003cli\u003eJavaScript 语言特性以及原理剖析；\u003c/li\u003e\n\u003cli\u003e帮你构建语言知识结构体系；\u003c/li\u003e\n\u003cli\u003eJavaScript 的精进指南。\u003c/li\u003e\n\u003c/ul\u003e\n"
+				},
+				"is_camp": false,
+				"catalog_pic_url": "https://static001.geekbang.org/resource/image/ff/19/ff0b71aa072af4ad6d1012c1b815fa19.jpg"
+			},
+			"dl": {
+				"article": {
+					"id": 0,
+					"video_duration": "",
+					"video_hot": 0,
+					"could_preview": false
+				},
+				"topic_ids": []
+			},
+			"university": {
+				"total_hour": 0,
+				"term": 0,
+				"redirect_type": "",
+				"redirect_param": "",
+				"wx_qrcode": "",
+				"wx_rule": "",
+				"server_start_time": 0,
+				"lecturer_h_cover": ""
+			},
+			"opencourse": {
+				"video_bg": "",
+				"ad": {
+					"cover": "",
+					"cover_web": "",
+					"redirect_type": "",
+					"redirect_param": ""
+				},
+				"article_fav": {
+					"aid": 0,
+					"had_done": false,
+					"count": 0
+				},
+				"author_h_cover": ""
+			},
+			"qconp": {
+				"topic_id": 0,
+				"cover_appoint": "",
+				"article": {
+					"id": 0,
+					"cover": "",
+					"video_duration": "",
+					"video_hot": 0
+				}
+			},
+			"extra": {
+				"sub": {
+					"count": 6590,
+					"had_done": false,
+					"could_order": true,
+					"access_mask": 0
+				},
+				"fav": {
+					"count": 0,
+					"had_done": false
+				},
+				"rate": {
+					"article_count": 0,
+					"article_count_req": 0,
+					"is_finished": false,
+					"rate_percent": 0,
+					"video_seconds": 0,
+					"last_article_id": 0,
+					"last_chapter_id": 0,
+					"has_learn": false
+				},
+				"cert": {
+					"id": "",
+					"type": 0
+				},
+				"nps": {
+					"min": 13,
+					"status": 0,
+					"url": "https://jinshuju.net/f/kyZ77W"
+				},
+				"any_read": {
+					"total": 3,
+					"count": 0
+				},
+				"university": {
+					"status": 0,
+					"view_status": 0,
+					"charge_status": 0,
+					"share_renewal_status": 0,
+					"unlocked_status": 0,
+					"unlocked_chapter_ids": [],
+					"unlocked_chapter_id": 0,
+					"unlocked_chapter_title": "",
+					"unlocked_article_count": 0,
+					"unlocked_next_time": 0,
+					"expire_time": 0,
+					"is_expired": false,
+					"is_graduated": false,
+					"had_sub": false,
+					"timeline": [],
+					"has_wx_friend": false,
+					"sub_term_title": ""
+				},
+				"vip": {
+					"show": false,
+					"end_time": -1
+				},
+				"appoint": {
+					"could_do": false,
+					"had_done": false,
+					"count": 0
+				},
+				"group_buy": {
+					"success_ucount": 2,
+					"join_code": "",
+					"could_groupbuy": false,
+					"had_join": false,
+					"price": 7900,
+					"list": []
+				},
+				"sharesale": {
+					"original_pic_color": "595656",
+					"original_pic_url": "https://static001.geekbang.org/render/screen/ae/8b/ae75ddcc1f525641912b6965a679338b.jpeg",
+					"promo_pic_color": "595656",
+					"promo_pic_url": "https://static001.geekbang.org/render/screen/ae/8b/ae75ddcc1f525641912b6965a679338b.jpeg",
+					"share_sale_price": 2000,
+					"share_sale_guest_price": 0
+				},
+				"promo": {
+					"ent_time": 0
+				},
+				"channel": {
+					"is": false,
+					"back_amount": 0
+				},
+				"first_promo": {
+					"price": 5990,
+					"could_join": false
+				},
+				"coupon_promo": {
+					"could_join": false,
+					"price": 0
+				},
+				"helper": [],
+				"tab": {
+					"comment": false
+				},
+				"modules": [{
+					"name": "gain",
+					"title": "",
+					"content": "深度解读JavaScript核心技术；JavaScript语言特性以及原理剖析；帮你构建语言知识结构体系；JavaScript的精进指南。",
+					"type": ""
+				}],
+				"cid": 0,
+				"first_aids": [],
+				"study_plan": {
+					"id": 0,
+					"day_nums": 0,
+					"article_nums": 0,
+					"learned_week_nums": 0,
+					"status": 0
+				},
+				"cate_id": 303,
+				"cate_name": "",
+				"group_tag": {
+					"is_recommend": false,
+					"is_recently_learn": false
+				}
+			}
+		}, {
+			"id": 100028901,
+			"spu": 289,
+			"ctime": 1558688100,
+			"utime": 1625208292,
+			"begin_time": 1558454400,
+			"end_time": 1874505600,
+			"price": {
+				"market": 12900,
+				"sale": 9900,
+				"sale_type": 3
+			},
+			"is_onborad": true,
+			"is_sale": true,
+			"is_groupbuy": true,
+			"is_promo": false,
+			"is_shareget": false,
+			"is_sharesale": true,
+			"type": "c3",
+			"is_column": true,
+			"is_core": true,
+			"is_video": true,
+			"is_audio": false,
+			"is_dailylesson": false,
+			"is_university": false,
+			"is_opencourse": false,
+			"is_qconp": false,
+			"nav_id": 2,
+			"title": "玩转webpack",
+			"subtitle": "全方位掌握webpack核心技能和优化策略",
+			"intro": "近几年来，前端领域飞速发展，工作早已不再是切几张图，写几个页面那么简单，而是需要前端开发者更加专注业务需求。webpack，就是这么一款工具，将前端不断出现的新模块、新资源、新需求，进行自动化整合、梳理、输出，极大提高了我们的工作效率。同时，webpack凭借着自身社区生态丰富，配置灵活和插件化扩展，官方更新迭代速度快等优点，已成为前端构建领域里最炙手可热的构建工具。在GitHub上，webpack也拥有着48.8k的star。可是，不少前端人，对于webpack的使用和了解只停留在了20%的基础功能上。每天开发写npmrundev，该上线了按npmrunbuild，执行个命令，webpack就帮你打包好了。很多人根本不知道，这整个过程究竟发生了什么，导致之后出现问题，也无法对症下药，无从下手。以下这些情景，你肯定或多或少都遇到过：拿到一份用vue-cli和create-react-app生成的webpack配置，却不知道它们的含义；想要深入了解webpack内部原理，但发现看不懂webpack源码，也不知该从何下手；在做项目构建时，遇到速度或体积的问题时，发现自己拿不出一套完善的优化思路；在社区的插件和loader不满足实际项目时，却无法自定义出一个定制化的插件和loader，来解决眼下的问题。其实，掌握webpack是具有一定的学习曲线和成本的。如何理解webpack“一切皆为模块”的打包理念？如何快速掌握webpack的构建配置？如何让webpack成为升职加薪利器，而不是成为一名“webpack配置工程师”？整个课程基于最新版webpack4设计，遵循由浅入深的原则，将内容分为4个阶段。基础篇：从最基础的知识讲起，由浅入深，教你掌握webpack的核心概念和开发必备技巧。进阶篇：带你编写webpack构建配置的同时，轻松掌握构建速度和体积的优化策略。原理篇：抽丝剥茧，通过webpack源码，让你了解webpack内部的运行原理的同时，也具备编写自定义loader和插件的能力。实战篇：从一个Web商城项目出发，讲解webpack如何运用到实际的项目中，并且最大化地提升开发阶段和发布阶段的构建体验。无论你是对webpack一无所知的初学者，还是经验丰富的前端工程师，都能够通过这个课程，提升对webpack的理解，建立属于你自己的webpack知识体系，并在工作中能够高效的使用webpack，完成各类前端项目的打包构建工作。课程目录",
+			"intro_html": "\u003cp\u003e近几年来，前端领域飞速发展，工作早已不再是切几张图，写几个页面那么简单，而是需要前端开发者更加专注业务需求。webpack，就是这么一款工具，将前端不断出现的新模块、新资源、新需求，进行自动化整合、梳理、输出，极大提高了我们的工作效率。\u003c/p\u003e\n\u003cp\u003e同时，\u003cstrong\u003ewebpack 凭借着自身社区生态丰富，配置灵活和插件化扩展，官方更新迭代速度快等优点，已成为前端构建领域里最炙手可热的构建工具。\u003c/strong\u003e在 GitHub上，webpack 也拥有着 48.8k 的 star。\u003c/p\u003e\n\u003cp\u003e可是，不少前端人，对于 webpack 的使用和了解只停留在了 20% 的基础功能上。每天开发写 npm run dev，该上线了按 npm run build，执行个命令，webpack 就帮你打包好了。\u003c/p\u003e\n\u003cp\u003e很多人根本不知道，这整个过程究竟发生了什么，导致之后出现问题，也无法对症下药，无从下手。以下这些情景，你肯定或多或少都遇到过：\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e拿到一份用 vue-cli 和 create-react-app 生成的 webpack 配置，却不知道它们的含义；\u003c/li\u003e\n\u003cli\u003e想要深入了解 webpack 内部原理，但发现看不懂 webpack 源码，也不知该从何下手；\u003c/li\u003e\n\u003cli\u003e在做项目构建时，遇到速度或体积的问题时，发现自己拿不出一套完善的优化思路；\u003c/li\u003e\n\u003cli\u003e在社区的插件和 loader 不满足实际项目时，却无法自定义出一个定制化的插件和 loader，来解决眼下的问题。\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e其实，掌握 webpack 是具有一定的学习曲线和成本的。如何理解 webpack “一切皆为模块”的打包理念？如何快速掌握 webpack 的构建配置？如何让 webpack 成为升职加薪利器，而不是成为一名“ webpack 配置工程师”？\u003c/p\u003e\n\u003cp\u003e整个课程基于\u003cstrong\u003e最新版 webpack 4 \u003c/strong\u003e设计，遵循由浅入深的原则，将内容分为 4 个阶段。\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cstrong\u003e基础篇：\u003c/strong\u003e从最基础的知识讲起，由浅入深，教你掌握 webpack 的核心概念和开发必备技巧。\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003e进阶篇：\u003c/strong\u003e带你编写 webpack 构建配置的同时，轻松掌握构建速度和体积的优化策略。\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003e原理篇：\u003c/strong\u003e抽丝剥茧，通过 webpack 源码，让你了解 webpack 内部的运行原理的同时，也具备编写自定义 loader和插件的能力。\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003e实战篇：\u003c/strong\u003e从一个 Web 商城项目出发，讲解 webpack 如何运用到实际的项目中，并且最大化地提升开发阶段和发布阶段的构建体验。\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e无论你是对 webpack 一无所知的初学者，还是经验丰富的前端工程师，都能够通过这个课程，提升对 webpack 的理解，建立属于你自己的 webpack 知识体系，并在工作中能够高效的使用 webpack，完成各类前端项目的打包构建工作。\u003c/p\u003e\n\u003ch1\u003e课程目录\u003c/h1\u003e\n\u003cp\u003e\u003cimg src=\"https://static001.geekbang.org/resource/image/de/cf/dec5d31b826c67d6c49142e66c8b74cf.jpg\" alt=\"\" /\u003e\u003c/p\u003e\n",
+			"ucode": "3F3E18A17BA59D",
+			"is_finish": true,
+			"author": {
+				"name": "程柳锋",
+				"intro": "腾讯高级工程师，IVWEB团队社区和工程化负责人",
+				"info": "",
+				"avatar": "https://static001.geekbang.org/resource/image/6b/2a/6b0e0ee871bc0238b163e85f08ddc02a.jpg"
+			},
+			"cover": {
+				"square": "https://static001.geekbang.org/resource/image/6b/2a/6b0e0ee871bc0238b163e85f08ddc02a.jpg",
+				"rectangle": "https://static001.geekbang.org/resource/image/5f/9b/5f9c7e8e965767d3a9db92c1d976cd9b.jpg",
+				"horizontal": "https://static001.geekbang.org/resource/image/ff/03/704427b245280b0bf29cc6a5fbc1.jpg",
+				"lecture_horizontal": "https://static001.geekbang.org/resource/image/51/74/51690641376bdd61147e426dc4ba5474.jpg",
+				"learn_horizontal": "https://static001.geekbang.org/resource/image/13/09/13a0ad8699da4635a0c177457ffaeb09.png"
+			},
+			"article": {
+				"id": 0,
+				"count": 84,
+				"count_req": 84,
+				"count_pub": 84,
+				"total_length": 50911,
+				"first_article_id": 0,
+				"first_article_title": ""
+			},
+			"seo": {
+				"keywords": ["webpack", "打包"]
+			},
+			"share": {
+				"title": "程柳锋 · 玩转webpack",
+				"content": "全方位掌握webpack核心技能和优化策略",
+				"cover": "https://static001.geekbang.org/resource/image/6b/2a/6b0e0ee871bc0238b163e85f08ddc02a.jpg",
+				"poster": ""
+			},
+			"labels": [5, 39],
+			"unit": "84讲",
+			"column": {
+				"unit": "84讲",
+				"bgcolor": "FFFFFF",
+				"update_frequency": "全集",
+				"is_preorder": false,
+				"is_finish": true,
+				"is_include_preview": true,
+				"show_chapter": true,
+				"is_sale_product": true,
+				"study_service": [1, 2, 3, 5],
+				"path": {
+					"desc": "你将获得：快速掌握基础技能和进阶用法；熟悉打包速度和体积优化策略；深入源代码了解打包构建原理；编写健壮易维护的webpack配置。",
+					"desc_html": "\u003cp\u003e\u003cstrong\u003e你将获得\u003c/strong\u003e：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e快速掌握基础技能和进阶用法；\u003c/li\u003e\n\u003cli\u003e熟悉打包速度和体积优化策略；\u003c/li\u003e\n\u003cli\u003e深入源代码了解打包构建原理；\u003c/li\u003e\n\u003cli\u003e编写健壮易维护的 webpack 配置。\u003c/li\u003e\n\u003c/ul\u003e\n"
+				},
+				"is_camp": false,
+				"catalog_pic_url": ""
+			},
+			"dl": {
+				"article": {
+					"id": 0,
+					"video_duration": "",
+					"video_hot": 0,
+					"could_preview": false
+				},
+				"topic_ids": []
+			},
+			"university": {
+				"total_hour": 0,
+				"term": 0,
+				"redirect_type": "",
+				"redirect_param": "",
+				"wx_qrcode": "",
+				"wx_rule": "",
+				"server_start_time": 0,
+				"lecturer_h_cover": ""
+			},
+			"opencourse": {
+				"video_bg": "",
+				"ad": {
+					"cover": "",
+					"cover_web": "",
+					"redirect_type": "",
+					"redirect_param": ""
+				},
+				"article_fav": {
+					"aid": 0,
+					"had_done": false,
+					"count": 0
+				},
+				"author_h_cover": ""
+			},
+			"qconp": {
+				"topic_id": 0,
+				"cover_appoint": "",
+				"article": {
+					"id": 0,
+					"cover": "",
+					"video_duration": "",
+					"video_hot": 0
+				}
+			},
+			"extra": {
+				"sub": {
+					"count": 10031,
+					"had_done": true,
+					"could_order": false,
+					"access_mask": 1
+				},
+				"fav": {
+					"count": 0,
+					"had_done": false
+				},
+				"rate": {
+					"article_count": 41,
+					"article_count_req": 41,
+					"is_finished": false,
+					"rate_percent": 48,
+					"video_seconds": 0,
+					"last_article_id": 0,
+					"last_chapter_id": 0,
+					"has_learn": false
+				},
+				"cert": {
+					"id": "",
+					"type": 0
+				},
+				"nps": {
+					"min": 42,
+					"status": 0,
+					"url": "https://jinshuju.net/f/zwW0xV"
+				},
+				"any_read": {
+					"total": 0,
+					"count": 0
+				},
+				"university": {
+					"status": 0,
+					"view_status": 0,
+					"charge_status": 0,
+					"share_renewal_status": 0,
+					"unlocked_status": 0,
+					"unlocked_chapter_ids": [],
+					"unlocked_chapter_id": 0,
+					"unlocked_chapter_title": "",
+					"unlocked_article_count": 0,
+					"unlocked_next_time": 0,
+					"expire_time": 0,
+					"is_expired": false,
+					"is_graduated": false,
+					"had_sub": false,
+					"timeline": [],
+					"has_wx_friend": false,
+					"sub_term_title": ""
+				},
+				"vip": {
+					"show": false,
+					"end_time": -1
+				},
+				"appoint": {
+					"could_do": false,
+					"had_done": false,
+					"count": 0
+				},
+				"group_buy": {
+					"success_ucount": 2,
+					"join_code": "",
+					"could_groupbuy": false,
+					"had_join": false,
+					"price": 9900,
+					"list": []
+				},
+				"sharesale": {
+					"original_pic_color": "595656",
+					"original_pic_url": "https://static001.geekbang.org/render/screen/7c/c9/7c203d648b35bc3d55d342d1a06db8c9.jpeg",
+					"promo_pic_color": "595656",
+					"promo_pic_url": "https://static001.geekbang.org/render/screen/7c/c9/7c203d648b35bc3d55d342d1a06db8c9.jpeg",
+					"share_sale_price": 2000,
+					"share_sale_guest_price": 0
+				},
+				"promo": {
+					"ent_time": 0
+				},
+				"channel": {
+					"is": false,
+					"back_amount": 0
+				},
+				"first_promo": {
+					"price": 5990,
+					"could_join": false
+				},
+				"coupon_promo": {
+					"could_join": false,
+					"price": 0
+				},
+				"helper": [],
+				"tab": {
+					"comment": false
+				},
+				"modules": [{
+					"name": "gain",
+					"title": "",
+					"content": "快速掌握基础技能和进阶用法；熟悉打包速度和体积优化策略；深入源代码了解打包构建原理；编写健壮易维护的webpack配置。",
+					"type": ""
+				}],
+				"cid": 0,
+				"first_aids": [],
+				"study_plan": {
+					"id": 0,
+					"day_nums": 0,
+					"article_nums": 0,
+					"learned_week_nums": 0,
+					"status": 0
+				},
+				"cate_id": 320,
+				"cate_name": "",
+				"group_tag": {
+					"is_recommend": false,
+					"is_recently_learn": false
+				}
+			}
+		}, {
+			"id": 100009301,
+			"spu": 93,
+			"ctime": 1528775734,
+			"utime": 1625139930,
+			"begin_time": 1528732800,
+			"end_time": 1844352000,
+			"price": {
+				"market": 19900,
+				"sale": 12900,
+				"sale_type": 3
+			},
+			"is_onborad": true,
+			"is_sale": true,
+			"is_groupbuy": true,
+			"is_promo": false,
+			"is_shareget": false,
+			"is_sharesale": true,
+			"type": "c3",
+			"is_column": true,
+			"is_core": true,
+			"is_video": true,
+			"is_audio": false,
+			"is_dailylesson": false,
+			"is_university": false,
+			"is_opencourse": false,
+			"is_qconp": false,
+			"nav_id": 2,
+			"title": "React实战进阶45讲",
+			"subtitle": "掌握当下热门的前端利器",
+			"intro": "注：本课程基于React16.4版本构建。React是目前最为流行的前端UI开发框架之一，根据HackerNews发布的招聘趋势数据，React已经连续12个月成为最受招聘方欢迎的技能，需求指数一度达到25.93%，足可见React在业内的被认可度。在React出现之前，基于HTML的前端界面开发正变得越来越复杂，如何将来自于服务器端或者用户输入的动态数据高效地反映到复杂的用户界面上，是最让人头疼的难题。而React则很好地解决了这个问题，使用React可以非常轻松地创建用户交互界面，在数据改变时更高效地更新渲染界面。React使用声明式的语法帮助开发者直观地描述和组织复杂的界面逻辑，让前端应用开发变得越来越容易；React繁荣的生态圈还为开发者提供了大量的最佳实践；活跃的社区则让你碰到问题可以迅速找到解决方案。React不仅让你能够从容应对大型复杂前端应用的开发，其编程思想还能应用到ReactNative原生App开发，服务器端渲染的后端开发。无论你是没有接触过React的前端工程师，还是移动应用开发人员，或者仅仅是想跨界了解前端开发现状的程序员，学习React不仅能让你丰富自身的技能库，掌握当下最热门的前端开发利器，同时还能大大提升职场竞争力，迈向更高的台阶。",
+			"intro_html": "\u003cp\u003e注：本课程基于React 16.4版本构建。\u003c/p\u003e\n\u003cp\u003eReact 是目前最为流行的前端 UI 开发框架之一，根据 Hacker News 发布的招聘趋势数据，React 已经连续 12 个月成为最受招聘方欢迎的技能，需求指数一度达到 25.93 %，足可见 React 在业内的被认可度。\u003c/p\u003e\n\u003cp\u003e在 React 出现之前，基于 HTML 的前端界面开发正变得越来越复杂，如何将来自于服务器端或者用户输入的动态数据高效地反映到复杂的用户界面上，是最让人头疼的难题。而 React 则很好地解决了这个问题，使用 React 可以非常轻松地创建用户交互界面，在数据改变时更高效地更新渲染界面。\u003c/p\u003e\n\u003cp\u003eReact 使用声明式的语法帮助开发者直观地描述和组织复杂的界面逻辑，让前端应用开发变得越来越容易；React 繁荣的生态圈还为开发者提供了大量的最佳实践；活跃的社区则让你碰到问题可以迅速找到解决方案。\u003c/p\u003e\n\u003cp\u003eReact 不仅让你能够从容应对大型复杂前端应用的开发，其编程思想还能应用到 React Native 原生 App 开发，服务器端渲染的后端开发。\u003c/p\u003e\n\u003cp\u003e无论你是没有接触过 React 的前端工程师，还是移动应用开发人员，或者仅仅是想跨界了解前端开发现状的程序员，学习 React 不仅能让你丰富自身的技能库，掌握当下最热门的前端开发利器，同时还能大大提升职场竞争力，迈向更高的台阶。\u003c/p\u003e\n",
+			"ucode": "844B4C20BB3D6E",
+			"is_finish": true,
+			"author": {
+				"name": "王沛",
+				"intro": "eBay中国研发中心资深技术专家",
+				"info": "",
+				"avatar": "https://static001.geekbang.org/resource/image/33/2e/33f57c04bdc46e887d1ef5ca8ec7b42e.jpg"
+			},
+			"cover": {
+				"square": "https://static001.geekbang.org/resource/image/33/2e/33f57c04bdc46e887d1ef5ca8ec7b42e.jpg",
+				"rectangle": "https://static001.geekbang.org/resource/image/99/b6/9968135f476c43ce0f3793192184b2b6.jpg",
+				"horizontal": "https://static001.geekbang.org/resource/image/2a/c5/3924e6098f3a57ecbffc802e527b.jpg",
+				"lecture_horizontal": "https://static001.geekbang.org/resource/image/8a/ea/8a1e0c931028dc11e6df8db4957a70ea.jpg",
+				"learn_horizontal": "https://static001.geekbang.org/resource/image/65/8f/654959b363d51aeb95fd0ddda3d4238f.png"
+			},
+			"article": {
+				"id": 0,
+				"count": 46,
+				"count_req": 46,
+				"count_pub": 46,
+				"total_length": 30267,
+				"first_article_id": 0,
+				"first_article_title": ""
+			},
+			"seo": {
+				"keywords": ["React", "前端框架"]
+			},
+			"share": {
+				"title": "王沛 · React实战进阶45讲",
+				"content": "掌握当下热门的前端利器",
+				"cover": "https://static001.geekbang.org/resource/image/33/2e/33f57c04bdc46e887d1ef5ca8ec7b42e.jpg",
+				"poster": ""
+			},
+			"labels": [5, 32],
+			"unit": "46讲",
+			"column": {
+				"unit": "46讲",
+				"bgcolor": "FFFFFF",
+				"update_frequency": "全集",
+				"is_preorder": false,
+				"is_finish": true,
+				"is_include_preview": true,
+				"show_chapter": true,
+				"is_sale_product": true,
+				"study_service": [1, 2, 3, 5],
+				"path": {
+					"desc": "你将获得：全面学习React常用技术栈；深入理解React设计模式；常见场景下的编程实战指南；掌握用React开发大型项目的能力。",
+					"desc_html": "\u003cp\u003e\u003cstrong\u003e你将获得\u003c/strong\u003e：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e全面学习 React 常用技术栈；\u003c/li\u003e\n\u003cli\u003e深入理解 React 设计模式；\u003c/li\u003e\n\u003cli\u003e常见场景下的编程实战指南；\u003c/li\u003e\n\u003cli\u003e掌握用 React 开发大型项目的能力。\u003c/li\u003e\n\u003c/ul\u003e\n"
+				},
+				"is_camp": false,
+				"catalog_pic_url": ""
+			},
+			"dl": {
+				"article": {
+					"id": 0,
+					"video_duration": "",
+					"video_hot": 0,
+					"could_preview": false
+				},
+				"topic_ids": []
+			},
+			"university": {
+				"total_hour": 0,
+				"term": 0,
+				"redirect_type": "",
+				"redirect_param": "",
+				"wx_qrcode": "",
+				"wx_rule": "",
+				"server_start_time": 0,
+				"lecturer_h_cover": ""
+			},
+			"opencourse": {
+				"video_bg": "",
+				"ad": {
+					"cover": "",
+					"cover_web": "",
+					"redirect_type": "",
+					"redirect_param": ""
+				},
+				"article_fav": {
+					"aid": 0,
+					"had_done": false,
+					"count": 0
+				},
+				"author_h_cover": ""
+			},
+			"qconp": {
+				"topic_id": 0,
+				"cover_appoint": "",
+				"article": {
+					"id": 0,
+					"cover": "",
+					"video_duration": "",
+					"video_hot": 0
+				}
+			},
+			"extra": {
+				"sub": {
+					"count": 9809,
+					"had_done": false,
+					"could_order": true,
+					"access_mask": 0
+				},
+				"fav": {
+					"count": 0,
+					"had_done": false
+				},
+				"rate": {
+					"article_count": 0,
+					"article_count_req": 0,
+					"is_finished": false,
+					"rate_percent": 0,
+					"video_seconds": 0,
+					"last_article_id": 0,
+					"last_chapter_id": 0,
+					"has_learn": false
+				},
+				"cert": {
+					"id": "",
+					"type": 0
+				},
+				"nps": {
+					"min": 23,
+					"status": 0,
+					"url": "https://jinshuju.net/f/eTHApU"
+				},
+				"any_read": {
+					"total": 0,
+					"count": 0
+				},
+				"university": {
+					"status": 0,
+					"view_status": 0,
+					"charge_status": 0,
+					"share_renewal_status": 0,
+					"unlocked_status": 0,
+					"unlocked_chapter_ids": [],
+					"unlocked_chapter_id": 0,
+					"unlocked_chapter_title": "",
+					"unlocked_article_count": 0,
+					"unlocked_next_time": 0,
+					"expire_time": 0,
+					"is_expired": false,
+					"is_graduated": false,
+					"had_sub": false,
+					"timeline": [],
+					"has_wx_friend": false,
+					"sub_term_title": ""
+				},
+				"vip": {
+					"show": false,
+					"end_time": -1
+				},
+				"appoint": {
+					"could_do": false,
+					"had_done": false,
+					"count": 0
+				},
+				"group_buy": {
+					"success_ucount": 2,
+					"join_code": "",
+					"could_groupbuy": false,
+					"had_join": false,
+					"price": 12900,
+					"list": []
+				},
+				"sharesale": {
+					"original_pic_color": "FFFFFF",
+					"original_pic_url": "https://static001.geekbang.org/render/screen/96/51/96fd2cf14940e6ad8bd4671e2c7d6951.jpeg",
+					"promo_pic_color": "FFFFFF",
+					"promo_pic_url": "https://static001.geekbang.org/render/screen/96/51/96fd2cf14940e6ad8bd4671e2c7d6951.jpeg",
+					"share_sale_price": 2400,
+					"share_sale_guest_price": 0
+				},
+				"promo": {
+					"ent_time": 0
+				},
+				"channel": {
+					"is": false,
+					"back_amount": 0
+				},
+				"first_promo": {
+					"price": 6990,
+					"could_join": false
+				},
+				"coupon_promo": {
+					"could_join": false,
+					"price": 0
+				},
+				"helper": [],
+				"tab": {
+					"comment": false
+				},
+				"modules": [{
+					"name": "gain",
+					"title": "",
+					"content": "全面学习React常用技术栈；深入理解React设计模式；常见场景下的编程实战指南；掌握用React开发大型项目的能力。",
+					"type": ""
+				}],
+				"cid": 0,
+				"first_aids": [],
+				"study_plan": {
+					"id": 0,
+					"day_nums": 0,
+					"article_nums": 0,
+					"learned_week_nums": 0,
+					"status": 0
+				},
+				"cate_id": 320,
+				"cate_name": "",
+				"group_tag": {
+					"is_recommend": false,
+					"is_recently_learn": false
+				}
+			}
+		}, {
+			"id": 100079901,
+			"spu": 799,
+			"ctime": 1621580737,
+			"utime": 1625711048,
+			"begin_time": 1621440000,
+			"end_time": 1937318400,
+			"price": {
+				"market": 12900,
+				"sale": 9900,
+				"sale_type": 3
+			},
+			"is_onborad": true,
+			"is_sale": true,
+			"is_groupbuy": true,
+			"is_promo": false,
+			"is_shareget": false,
+			"is_sharesale": true,
+			"type": "c1",
+			"is_column": true,
+			"is_core": true,
+			"is_video": false,
+			"is_audio": true,
+			"is_dailylesson": false,
+			"is_university": false,
+			"is_opencourse": false,
+			"is_qconp": false,
+			"nav_id": 1,
+			"title": "React Hooks 核心原理与实战",
+			"subtitle": "业务场景驱动，带你吃透 React Hooks",
+			"intro": "React作为应用最广泛的前端开发库之一，不仅有着极其丰富的用户界面，而且非常容易上手。同时，在其他前端应用发生翻天覆地的变化的时候，它的功能却异常稳定。正因如此，无论你是专职从事前端开发，还是以后端为主但也需要自己做一些UI界面，React基本上就是你的首选。最重要的是，React在2019年2月发布的16.8版本中引入了Hooks。Hooks带来的全新机制让人耳目一新，因为它进一步拓展了React的开发思路，为前端开发提供了一种更优的选择。要知道，Hooks的两大好处就是业务逻辑重用和关注业务分离。所以在引入Hooks的概念之后，函数组件就具备了状态管理、生命周期管理等能力，它几乎可以实现原来Class组件具备的所有能力，而且还解决了Class组件存在的一些代码冗余、逻辑难以重用等问题。不过也肯定有很多人会有这样的疑问：转换Hooks的开发思路难不难？现在项目代码都是Class的，难道都得改一遍吗？我要先给你吃一颗定心丸。转换Hooks的开发思路并不难，重要的是在实际中不断应用。而原来的项目代码也不需要修改，因为函数组件能够和已有的Class组件无缝衔接，一起工作。你只需根据具体情况采用Hooks的方式去写新的代码就行了，转换成本很低。为了帮助你高效地掌握Hooks，我们特意邀请了eBay中国研发中心资深技术专家王沛老师，他会将自己及团队在使用Hooks过程中遇到的、看到的痛难点问题呈现出来。从函数组件和Hooks的角度出发，带你重新认识React，帮助你在深入理解Hooks的基础上，使用Hooks的思想去开发前端应用，享受Hooks带来的诸多好处。老师会把核心原理和典型业务场景结合起来，让你在真实的场景中透彻理解Hooks是如何解决问题的。通过实战锻炼，你会快速掌握这些通用原则和最佳实践，形成自己的知识库。之后在遇见类似的场景时，可以灵活调取。而我们的最高阶目标，就是让你在实战中掌握Hooks的思考方式，拥有举一反三的能力。模块设计课程主体划分为以下3大模块。基础篇：抓住问题本质，提高解决复杂问题的能力在“基础篇”，老师会抽丝剥茧，从“问题的本质是什么”这一角度出发来讲解每个机制，包括：React为什么要发明Hooks？useEffect就是生命周期函数吗？等等。理解了最核心的那个问题，你也就拥有了举一反三的能力。实战篇：业务场景驱动，掌握解决实际问题的思考方式在“实战“层面，老师精心设计了9个不同的典型业务场景，并基于ReactHooks去剖析一些常见设计模式。相信通过实战锻炼，你会快速掌握这些通用原则和最佳实践，形成自己的知识库。再遇见类似的场景时，就可以灵活调取。扩展篇：了解工具、生态和未来，开拓你的技术视野在这一部分，老师会给你介绍React应用该如何打包，整个生态有哪些可用的工具和资源，该如何测试，以及未来会有哪些发展的趋势。有了完整体系的积累，你才能真正独当一面，完成整个应用的开发、测试、打包和部署。",
+			"intro_html": "\u003cp\u003eReact作为应用最广泛的前端开发库之一，不仅有着极其丰富的用户界面，而且非常容易上手。同时，在其他前端应用发生翻天覆地的变化的时候，它的功能却异常稳定。正因如此，无论你是\u003cstrong\u003e专职从事前端开发，还是以后端为主但也需要自己做一些 UI 界面，React 基本上就是你的首选。\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e最重要的是，React 在2019年2月发布的 16.8 版本中引入了 Hooks。Hooks 带来的全新机制让人耳目一新，因为它进一步\u003cstrong\u003e拓展 了React 的开发思路，为前端开发提供了一种更优的选择\u003c/strong\u003e。\u003c/p\u003e\n\u003cp\u003e要知道，\u003cstrong\u003eHooks 的两大好处就是业务逻辑重用和关注业务分离\u003c/strong\u003e。所以在引入 Hooks 的概念之后，函数组件就具备了状态管理、生命周期管理等能力，它\u003cstrong\u003e几乎可以实现原来 Class 组件具备的所有能力，\u003c/strong\u003e而且还解决了 Class 组件存在的一些代码冗余、逻辑难以重用等问题。\u003c/p\u003e\n\u003cp\u003e不过也肯定有很多人会有这样的疑问：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e转换 Hooks 的开发思路难不难？\u003c/li\u003e\n\u003cli\u003e现在项目代码都是 Class 的，难道都得改一遍吗？\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e我要先给你吃一颗定心丸。转换Hooks 的开发思路并不难，重要的是在实际中不断应用。而原来的项目代码也不需要修改，因为函数组件能够和已有的 Class 组件无缝衔接，一起工作。你只需根据具体情况采用 Hooks 的方式去写新的代码就行了，转换成本很低。\u003c/p\u003e\n\u003cp\u003e为了帮助你高效地掌握Hooks，我们特意邀请了eBay 中国研发中心资深技术专家王沛老师，他会将自己及团队在使用 Hooks 过程中遇到的、看到的痛难点问题呈现出来。\u003cstrong\u003e从函数组件和 Hooks 的角度出发，带你重新认识 React\u003c/strong\u003e，帮助你在深入理解 Hooks 的基础上，使用 Hooks 的思想去开发前端应用，享受 Hooks 带来的诸多好处。\u003c/p\u003e\n\u003cp\u003e\u003cimg src=\"https://static001.geekbang.org/resource/image/a4/93/a4089b1acf12d52575ebfc89dd6b7593.png\" alt=\"\" /\u003e\u003c/p\u003e\n\u003cp\u003e老师会\u003cstrong\u003e把核心原理和典型业务场景结合起来\u003c/strong\u003e，让你在真实的场景中透彻理解Hooks 是如何解决问题的。通过实战锻炼，你会快速掌握这些通用原则和最佳实践，形成自己的知识库。之后在遇见类似的场景时，可以灵活调取。而我们的最高阶目标，就是让你\u003cstrong\u003e在实战中掌握Hooks的思考方式，拥有举一反三的能力\u003c/strong\u003e。\u003c/p\u003e\n\u003ch1\u003e模块设计\u003c/h1\u003e\n\u003cp\u003e课程主体划分为以下3大模块。\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e基础篇：抓住问题本质，提高解决复杂问题的能力\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e在“基础篇”，老师会抽丝剥茧，从“问题的本质是什么”这一角度出发来讲解每个机制，包括：React 为什么要发明 Hooks？useEffect 就是生命周期函数吗？等等。理解了最核心的那个问题，你也就拥有了举一反三的能力。\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e实战篇：业务场景驱动，掌握解决实际问题的思考方式\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e在“实战“层面，老师精心设计了9个不同的典型业务场景，并基于 React Hooks 去剖析一些常见设计模式。相信通过实战锻炼，你会快速掌握这些通用原则和最佳实践，形成自己的知识库。再遇见类似的场景时，就可以灵活调取。\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e扩展篇：了解工具、生态和未来，开拓你的技术视野\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e在这一部分，老师会给你介绍 React 应用该如何打包，整个生态有哪些可用的工具和资源，该如何测试，以及未来会有哪些发展的趋势。有了完整体系的积累，你才能真正独当一面，完成整个应用的开发、测试、打包和部署。\u003c/p\u003e\n",
+			"ucode": "844B4C20BB3D6E",
+			"is_finish": false,
+			"author": {
+				"name": "王沛",
+				"intro": "eBay 中国研发中心资深技术专家",
+				"info": "",
+				"avatar": "https://static001.geekbang.org/resource/image/5d/98/5d8feec0294d0afa9db62021eaa75f98.jpg"
+			},
+			"cover": {
+				"square": "https://static001.geekbang.org/resource/image/5d/98/5d8feec0294d0afa9db62021eaa75f98.jpg",
+				"rectangle": "https://static001.geekbang.org/resource/image/d6/e7/d6554ee5b6ed226015af7728509e22e7.jpg",
+				"horizontal": "https://static001.geekbang.org/resource/image/8f/26/8f05b08d54144e211a51e7ab9dd49d26.jpg",
+				"lecture_horizontal": "https://static001.geekbang.org/resource/image/19/49/19f5871de1913e73614bcca78fc3b349.jpg",
+				"learn_horizontal": "https://static001.geekbang.org/resource/image/0a/6d/0a1af630c975e7485b709292e36eb26d.png"
+			},
+			"article": {
+				"id": 0,
+				"count": 23,
+				"count_req": 23,
+				"count_pub": 21,
+				"total_length": 18268,
+				"first_article_id": 0,
+				"first_article_title": ""
+			},
+			"seo": {
+				"keywords": ["王沛", "前端", "React Hooks", "函数组件", "面试", "实战", "原理", "开发"]
+			},
+			"share": {
+				"title": "王沛 · React Hooks 核心原理与实战",
+				"content": "业务场景驱动，带你吃透 React Hooks",
+				"cover": "https://static001.geekbang.org/resource/image/5d/98/5d8feec0294d0afa9db62021eaa75f98.jpg",
+				"poster": "https://static001.geekbang.org/resource/image/f0/cf/f0f715cc3c6c5185364e9798c5f864cf.jpg"
+			},
+			"labels": [5, 9, 37, 32, 70, 77],
+			"unit": "23讲",
+			"column": {
+				"unit": "23讲",
+				"bgcolor": "F6F7FB",
+				"update_frequency": "每周二 / 四 / 六更新",
+				"is_preorder": false,
+				"is_finish": false,
+				"is_include_preview": true,
+				"show_chapter": true,
+				"is_sale_product": true,
+				"study_service": [1, 2, 3, 5, 8, 11, 12, 14],
+				"path": {
+					"desc": "你将获得完整高效的ReactHooks学习路径；用Hooks解决实际问题的思考方式；典型业务场景的最佳实践；一线前端技术专家的经验总结。",
+					"desc_html": "\u003cp\u003e\u003cstrong\u003e你将获得\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e完整高效的 React Hooks 学习路径；\u003c/li\u003e\n\u003cli\u003e用 Hooks 解决实际问题的思考方式；\u003c/li\u003e\n\u003cli\u003e典型业务场景的最佳实践；\u003c/li\u003e\n\u003cli\u003e一线前端技术专家的经验总结。\u003c/li\u003e\n\u003c/ul\u003e\n"
+				},
+				"is_camp": false,
+				"catalog_pic_url": "https://static001.geekbang.org/resource/image/5b/a4/5b7eaee452da708c2a382c4df54df7a4.jpg"
+			},
+			"dl": {
+				"article": {
+					"id": 0,
+					"video_duration": "",
+					"video_hot": 0,
+					"could_preview": false
+				},
+				"topic_ids": []
+			},
+			"university": {
+				"total_hour": 0,
+				"term": 0,
+				"redirect_type": "",
+				"redirect_param": "",
+				"wx_qrcode": "",
+				"wx_rule": "",
+				"server_start_time": 0,
+				"lecturer_h_cover": ""
+			},
+			"opencourse": {
+				"video_bg": "",
+				"ad": {
+					"cover": "",
+					"cover_web": "",
+					"redirect_type": "",
+					"redirect_param": ""
+				},
+				"article_fav": {
+					"aid": 0,
+					"had_done": false,
+					"count": 0
+				},
+				"author_h_cover": ""
+			},
+			"qconp": {
+				"topic_id": 0,
+				"cover_appoint": "",
+				"article": {
+					"id": 0,
+					"cover": "",
+					"video_duration": "",
+					"video_hot": 0
+				}
+			},
+			"extra": {
+				"sub": {
+					"count": 1330,
+					"had_done": false,
+					"could_order": true,
+					"access_mask": 0
+				},
+				"fav": {
+					"count": 0,
+					"had_done": false
+				},
+				"rate": {
+					"article_count": 0,
+					"article_count_req": 0,
+					"is_finished": false,
+					"rate_percent": 0,
+					"video_seconds": 0,
+					"last_article_id": 0,
+					"last_chapter_id": 0,
+					"has_learn": false
+				},
+				"cert": {
+					"id": "",
+					"type": 0
+				},
+				"nps": {
+					"min": 12,
+					"status": 0,
+					"url": "https://jinshuju.net/f/DOKo9U"
+				},
+				"any_read": {
+					"total": 2,
+					"count": 0
+				},
+				"university": {
+					"status": 0,
+					"view_status": 0,
+					"charge_status": 0,
+					"share_renewal_status": 0,
+					"unlocked_status": 0,
+					"unlocked_chapter_ids": [],
+					"unlocked_chapter_id": 0,
+					"unlocked_chapter_title": "",
+					"unlocked_article_count": 0,
+					"unlocked_next_time": 0,
+					"expire_time": 0,
+					"is_expired": false,
+					"is_graduated": false,
+					"had_sub": false,
+					"timeline": [],
+					"has_wx_friend": false,
+					"sub_term_title": ""
+				},
+				"vip": {
+					"show": false,
+					"end_time": -1
+				},
+				"appoint": {
+					"could_do": false,
+					"had_done": false,
+					"count": 0
+				},
+				"group_buy": {
+					"success_ucount": 2,
+					"join_code": "",
+					"could_groupbuy": false,
+					"had_join": false,
+					"price": 9900,
+					"list": []
+				},
+				"sharesale": {
+					"original_pic_color": "2D8CF0",
+					"original_pic_url": "https://static001.geekbang.org/render/screen/9c/3d/9caf4395de1a011656c012107aaa373d.jpeg",
+					"promo_pic_color": "595656",
+					"promo_pic_url": "https://static001.geekbang.org/render/screen/9c/3d/9caf4395de1a011656c012107aaa373d.jpeg",
+					"share_sale_price": 2000,
+					"share_sale_guest_price": 0
+				},
+				"promo": {
+					"ent_time": 0
+				},
+				"channel": {
+					"is": false,
+					"back_amount": 0
+				},
+				"first_promo": {
+					"price": 5990,
+					"could_join": false
+				},
+				"coupon_promo": {
+					"could_join": false,
+					"price": 0
+				},
+				"helper": [],
+				"tab": {
+					"comment": false
+				},
+				"modules": [{
+					"name": "gain",
+					"title": "",
+					"content": "完整高效的ReactHooks学习路径用Hooks解决实际问题的思考方式典型业务场景的最佳实践一线前端技术专家的经验总结",
+					"type": ""
+				}],
+				"cid": 0,
+				"first_aids": [],
+				"study_plan": {
+					"id": 0,
+					"day_nums": 0,
+					"article_nums": 0,
+					"learned_week_nums": 0,
+					"status": 0
+				},
+				"cate_id": 303,
+				"cate_name": "",
+				"group_tag": {
+					"is_recommend": false,
+					"is_recently_learn": false
+				}
+			}
+		}],
+		"articles": null,
+		"labels": null
+	},
+	"error": {},
+	"extra": {
+		"cost": 0.074844065,
+		"request-id": "415de01aada7325894008da99f8a24bd@2@time"
+	}
+}
